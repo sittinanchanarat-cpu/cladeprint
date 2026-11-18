@@ -1,0 +1,18 @@
+error    libmamba Could not set lock (Resource temporarily unavailable)
+warning  libmamba Cannot lock '<local path>'
+    Waiting for other mamba process to finish
+9997747 reads; of these:
+  9997747 (100.00%) were paired; of these:
+    523006 (5.23%) aligned concordantly 0 times
+    9275308 (92.77%) aligned concordantly exactly 1 time
+    199433 (1.99%) aligned concordantly >1 times
+    ----
+    523006 pairs aligned concordantly 0 times; of these:
+      18771 (3.59%) aligned discordantly 1 time
+    ----
+    504235 pairs aligned 0 times concordantly or discordantly; of these:
+      1008470 mates make up the pairs; of these:
+        566604 (56.18%) aligned 0 times
+        429737 (42.61%) aligned exactly 1 time
+        12129 (1.20%) aligned >1 times
+97.17% overall alignment rate

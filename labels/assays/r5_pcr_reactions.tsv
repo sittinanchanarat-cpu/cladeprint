@@ -1,0 +1,50 @@
+reaction	assay	primers	probes	expected_bp
+Mitchell 1994 CN rDNA species PCR	Mitchell 1994 CN rDNA species PCR	A001,A002,A003,A004,A005		116,136,600
+Rappelli 1998 nested CSF PCR	Rappelli 1998 nested CSF PCR	A006,A007,A008,A009		116,415
+Bialek 2002 nested 18S PCR + LightCycler FRET	Bialek 2002 nested 18S PCR + LightCycler FRET	A010,A011,A012,A013	A014,A015	278,429
+Aoki 1999 serotype A RAPD-derived PCR (CNa-70)	Aoki 1999 serotype A RAPD-derived PCR (CNa-70)	A016,A017		695
+Aoki 1999 serotype A RAPD-derived PCR (CNa-29)	Aoki 1999 serotype A RAPD-derived PCR (CNa-29)	A018,A019		579,666
+Aoki 1999 serotype B PCR (CNb-49)	Aoki 1999 serotype B PCR (CNb-49)	A020,A021		448
+Aoki 1999 preliminary serotype AD PCR (CNad-4)	Aoki 1999 preliminary serotype AD PCR (CNad-4)	A022,A023		417
+Aoki 1999 preliminary serotype D PCR (CNd-2)	Aoki 1999 preliminary serotype D PCR (CNd-2)	A024,A025		244
+Enache-Angoulvant 2007 CAP59 PCR-REA / fragment-length serotyping	Enache-Angoulvant 2007 CAP59 PCR-REA / fragment-length serotyping	A026,A027		359,373,375,387
+Feng 2013 STR1 singleplex species PCR	Feng 2013 STR1 singleplex species PCR	A028,A029,A148,A148.2		170,224,274
+Halliday 1999 MFalpha/660 mating-type + variety coamplification	Halliday 1999 MFalpha/660 mating-type + variety coamplification	A030,A031,A032,A033		109,216
+Halliday 1999 STE12alpha mating-type PCR	Halliday 1999 STE12alpha mating-type PCR	A034,A035		150
+Tay 2022 Cryptococcus cyt b real-time PCR + HRM	Tay 2022 Cryptococcus cyt b real-time PCR + HRM	A078,A079,A081,A082	A080,A083	82
+Gago 2014 multiplex real-time PCR (molecular beacon)	Gago 2014 multiplex real-time PCR (molecular beacon)	A084,A085		139
+Mbangiwa 2024 QSP1 qPCR (C. neoformans)	Mbangiwa 2024 QSP1 qPCR (C. neoformans)	A087,A088	A089	105
+Mbangiwa 2024 QSP1 qPCR (C. gattii)	Mbangiwa 2024 QSP1 qPCR (C. gattii)	A090,A091	A092	105
+Mbangiwa 2024 QSP1 qPCR (C. deneoformans)	Mbangiwa 2024 QSP1 qPCR (C. deneoformans)	A093,A094	A151	105
+Mbangiwa 2024 pan-Cryptococcus 28S qPCR	Mbangiwa 2024 pan-Cryptococcus 28S qPCR	A095,A096	A097	137
+Ito-Kuwa 2007 LAC1/CAP64 multiplex serotype PCR	Ito-Kuwa 2007 LAC1/CAP64 multiplex serotype PCR	A104,A104.2,A104.3,A104.4,A104.5,A104.6		250,400,420,450,760,880,1000
+Cogliati 2015 C. gattii sero-mating-type multiplex PCR	Cogliati 2015 C. gattii sero-mating-type multiplex PCR	A105,A105.2,A105.3,A105.4,A105.5,A105.6,A105.7,A105.8		284,322,504,530
+Leal 2008 Cryptococcus species multiplex PCR	Leal 2008 Cryptococcus species multiplex PCR	A106,A106.2,A106.3,A106.4		448,695
+Veron 2009 Cryptococcus TaqMan real-time PCR	Veron 2009 Cryptococcus TaqMan real-time PCR	A107,A107.2	A107.3	59
+URA5-RFLP (Meyer et al. 2003)	URA5-RFLP (Meyer et al. 2003)	A112,A113		
+PLB1-RFLP (Latouche et al. 2003)	PLB1-RFLP (Latouche et al. 2003)	A114,A115		1970
+Gago 2011 ITS1 high-resolution melting PCR	Gago 2011 ITS1 high-resolution melting PCR	A147,A147.2		100
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Aa Forward+STE20Aa Reverse	Yan 2002 STE20/STE12 serotype + mating-type PCR	A060,A061		865
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Aalpha Forward+STE20Aalpha Reverse	Yan 2002 STE20/STE12 serotype + mating-type PCR	A062,A063		588
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Da Forward+STE20Da Reverse	Yan 2002 STE20/STE12 serotype + mating-type PCR	A064,A065		440
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Dalpha Forward+STE20Dalpha Reverse	Yan 2002 STE20/STE12 serotype + mating-type PCR	A066,A067		443
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE12alpha Forward+STE12alpha Reverse	Yan 2002 STE20/STE12 serotype + mating-type PCR	A068,A069		379
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE 7264+JOHE 7265	Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD)	A070,A071		1200
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE 7273+JOHE 7275	Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD)	A072,A073		870
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE7270+JOHE7272	Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD)	A074,A075		870
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE7267+JOHE7268	Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD)	A076,A077		1200
+Lengeler 2001 serotype/mating-type allele panel: JOHE1909+JOHE1910	Lengeler 2001 serotype/mating-type allele panel	A036,A037		
+Lengeler 2001 serotype/mating-type allele panel: JOHE3067+JOHE3068	Lengeler 2001 serotype/mating-type allele panel	A038,A039		
+Lengeler 2001 serotype/mating-type allele panel: JOHE3069+JOHE3070	Lengeler 2001 serotype/mating-type allele panel	A040,A041		
+Lengeler 2001 serotype/mating-type allele panel: JOHE5169+JOHE5170	Lengeler 2001 serotype/mating-type allele panel	A042,A043		
+Lengeler 2001 serotype/mating-type allele panel: JOHE2472+JOHE2578	Lengeler 2001 serotype/mating-type allele panel	A044,A045		
+Lengeler 2001 serotype/mating-type allele panel: JOHE1895+JOHE1896	Lengeler 2001 serotype/mating-type allele panel	A046,A047		
+Lengeler 2001 serotype/mating-type allele panel: JOHE1671+JOHE1672	Lengeler 2001 serotype/mating-type allele panel	A048,A049		
+Lengeler 2001 serotype/mating-type allele panel: JOHE3065+JOHE3066	Lengeler 2001 serotype/mating-type allele panel	A051,A052		
+Lengeler 2001 serotype/mating-type allele panel: JOHE2926+JOHE3238	Lengeler 2001 serotype/mating-type allele panel	A054,A055		
+Lengeler 2001 serotype/mating-type allele panel: JOHE2596+JOHE3240	Lengeler 2001 serotype/mating-type allele panel	A057,A058		
+Lengeler 2001 serotype/mating-type allele panel: A048+A050	Lengeler 2001 serotype/mating-type allele panel	A048,A050		
+Lengeler 2001 serotype/mating-type allele panel: A053+A052	Lengeler 2001 serotype/mating-type allele panel	A053,A052		
+Lengeler 2001 serotype/mating-type allele panel: A054+A056	Lengeler 2001 serotype/mating-type allele panel	A054,A056		
+Lengeler 2001 serotype/mating-type allele panel: A057+A059	Lengeler 2001 serotype/mating-type allele panel	A057,A059		
+Lengeler 2001 serotype/mating-type allele panel: A048+A050v	Lengeler 2001 serotype/mating-type allele panel	A048,A050v		

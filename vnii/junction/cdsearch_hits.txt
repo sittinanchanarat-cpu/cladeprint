@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-359BFEB70F1A6996-FFE3C3BE4339E16
+#datatype	hitsConcise Results
+#status	0
+#Start time	2026-10-15T17:21:18	Run time	0:00:00:16
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#4 - >frag4_+_6404-7432	superfamily	476846	259	323	1.92456e-17	76.8818	cl39014	CxC2 superfamily	N	 - 
+Q#6 - >frag6_+_3060-3488	superfamily	424095	69	135	0.00232083	37.0569	cl40464	CoV_Nsp14 superfamily	N	 - 

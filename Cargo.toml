@@ -1,0 +1,24 @@
+[workspace]
+resolver = "3"
+members = ["crates/cladeprint-core", "crates/cladeprint-cli"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+authors = ["Sittinan Chanarat"]
+repository = "https://github.com/sittinanchanarat-cpu/cladeprint"
+description = "Lineage- and species-specific k-mer marker discovery for fungal pathogens"
+
+[workspace.dependencies]
+cladeprint-core = { path = "crates/cladeprint-core" }
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+rayon = "1"
+serde = { version = "1", features = ["derive"] }
+toml = "0.9"
+needletail = "0.6"
+
+[profile.release]
+lto = "thin"
+codegen-units = 1

@@ -1,0 +1,45 @@
+Low-coverage pure isolates (no metrics): 23; top major-lineage score matches the label in 23
+Pure-lineage isolates: 59/59 called as labelled
+Max off-target major-lineage score: 0.1221
+
+Own-lineage scores (external sensitivity):
+       count    min    50%    max
+label                            
+VNBI    12.0  0.869  0.931  0.942
+VNBII   11.0  0.836  0.938  0.991
+VNIa    12.0  0.741  0.992  1.000
+VNIb    12.0  0.924  0.986  1.000
+VNIc    12.0  0.631  0.974  1.000
+
+Mismatches and hybrids:
+          isolate     label  peak_cov   VNII   VNBI  VNBII    VNI   VNIa   VNIb   VNIc  call second  low_cov
+             Bt50   VNB/VNB         0 0.0000 0.0003 0.4114 0.0001 0.0000 0.0000 0.0000 VNBII               1
+PMHc1045.ENR.STOR  VNII/VNB         3 0.7968 0.0035 0.6646 0.0009 0.0000 0.0000 0.0000  VNII  VNBII        1
+              Bt9   VNI/VNI         0 0.0000 0.0005 0.0004 0.4334 0.0000 0.0101 0.2997   VNI               1
+            Bt125   VNI/VNB         5 0.0008 0.1733 0.3788 0.4568 0.1513 0.0067 0.0000   VNI  VNBII        0
+            Bt158   VNB/VNB         6 0.0003 0.9391 0.0073 0.0033 0.0000 0.0000 0.0000  VNBI               0
+         Ftc260-1   VNI/VNB         6 0.0016 0.5087 0.0000 0.5566 0.0487 0.0302 0.2439   VNI   VNBI        0
+            Bt162   VNI/VNB         5 0.0004 0.0072 0.4348 0.3528 0.0923 0.0000 0.0000 VNBII    VNI        0
+            Bt131   VNI/VNB         5 0.0002 0.0067 0.4244 0.3551 0.0923 0.0000 0.0000 VNBII    VNI        0
+            Bt163   VNI/VNB         6 0.0003 0.0072 0.4298 0.3568 0.0923 0.0000 0.0000 VNBII    VNI        0
+             Bt66   VNI/VNB         3 0.0003 0.0248 0.7105 0.7387 0.0000 0.0000 0.6829  VNIc  VNBII        1
+             Bt29   VNI/VNI         6 0.0001 0.0000 0.0008 0.9719 0.0308 0.0000 0.7561  VNIc               0
+            IFN26  VNB/VNIV         0 0.0136 0.0034 0.6712 0.0070 0.0000 0.0000 0.0000 VNBII               1
+           CCTP44  VNB/VNIV         3 0.0117 0.0043 0.7867 0.0066 0.0000 0.0000 0.0000 VNBII               1
+           CCTP50  VNB/VNIV         0 0.0145 0.0042 0.7010 0.0065 0.0000 0.0000 0.0000 VNBII               1
+            RCT14  VNB/VNIV         3 0.0117 0.0037 0.6939 0.0069 0.0000 0.0000 0.0000 VNBII               1
+           102-14   VNI/VNB         3 0.8269 0.0034 0.7656 0.0016 0.0000 0.0000 0.0000  VNII  VNBII        1
+          IFN-R23  VNB/VNIV         3 0.0124 0.0040 0.6879 0.0064 0.0000 0.0000 0.0000 VNBII               1
+          IFN-R21  VNB/VNIV         0 0.0117 0.0038 0.6727 0.0071 0.0000 0.0000 0.0000 VNBII               1
+          IFN-R26  VNB/VNIV         3 0.0125 0.0040 0.5677 0.0038 0.0000 0.0000 0.0000 VNBII               1
+            IFN62  VNB/VNIV         3 0.0117 0.0023 0.7185 0.0072 0.0000 0.0000 0.0000 VNBII               1
+         MMRL1368   VNI/VNI         6 0.0021 0.0000 0.0000 0.9747 0.0000 1.0000 0.0000  VNIb               0
+             1035 VNII/VNII         6 0.9735 0.0000 0.0000 0.0005 0.0000 0.0000 0.0000  VNII               0
+             1052 VNII/VNII         6 0.9749 0.0000 0.0000 0.0012 0.0000 0.0000 0.0000  VNII               0
+         INCr025a    VNI/VG         3 0.0453 0.0000 0.0000 0.8563 0.9256 0.0000 0.0000  VNIa               1
+         MMRL2445   VNB/VNB         6 0.0038 0.5527 0.0848 0.0226 0.0000 0.0000 0.0000  VNBI               0
+             1054 VNII/VNII         6 0.9804 0.0000 0.0000 0.0008 0.0000 0.0000 0.0000  VNII               0
+              SB4   VNI/VNI         6 0.0009 0.0000 0.0000 0.9765 0.0000 0.9698 0.0000  VNIb               0
+             1033 VNII/VNII         6 0.9669 0.0000 0.0000 0.0012 0.0000 0.0000 0.0000  VNII               0
+             Cng9  VNII/VNB         0 0.7389 0.0046 0.6870 0.0014 0.0000 0.0000 0.0000  VNII  VNBII        1
+           CCTP51  VNII/VNB         5 0.9516 0.0000 0.0000 0.0001 0.0000 0.0000 0.0000  VNII               0

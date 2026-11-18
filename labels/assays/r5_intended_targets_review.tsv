@@ -1,0 +1,30 @@
+key	include	my_target	your_target	note	assays_covered
+Mitchell 1994 CN rDNA species PCR	supplement	complex	complex	CN4/CN5/CN6 pairs; ITS1-ITS4 is universal	Mitchell 1994 CN rDNA species PCR
+Rappelli 1998 nested CSF PCR	supplement	complex	complex	labelled C. neoformans (1998: whole complex)	Rappelli 1998 nested CSF PCR
+Bialek 2002 nested 18S PCR + LightCycler FRET	supplement	complex	complex	labelled C. neoformans (2002: whole complex)	Bialek 2002 nested 18S PCR + LightCycler FRET
+Aoki 1999 serotype A RAPD-derived PCR (CNa-70)	main	C.neoformans	C.neoformans	serotype A	Aoki 1999 serotype A RAPD-derived PCR (CNa-70)
+Aoki 1999 serotype A RAPD-derived PCR (CNa-29)	main	C.neoformans	C.neoformans	serotype A	Aoki 1999 serotype A RAPD-derived PCR (CNa-29)
+Aoki 1999 serotype B PCR (CNb-49)	main	gattii_complex	gattii_complex	serotype B, also C	Aoki 1999 serotype B PCR (CNb-49)
+Aoki 1999 preliminary serotype AD PCR (CNad-4)	supplement	C.deneoformans	C.deneoformans	serotype AD (preliminary): D allele assumed	Aoki 1999 preliminary serotype AD PCR (CNad-4)
+Aoki 1999 preliminary serotype D PCR (CNd-2)	supplement	C.deneoformans	C.deneoformans	serotype D	Aoki 1999 preliminary serotype D PCR (CNd-2)
+Enache-Angoulvant 2007 CAP59 PCR-REA / fragment-length serotyping	main	pattern	pattern	all serotypes; sizes differ by serotype	Enache-Angoulvant 2007 CAP59 PCR-REA / fragment-length serotyping
+Feng 2013 STR1 singleplex species PCR	main	pattern	pattern	274 grubii / 224 neoformans / 170 gattii	Feng 2013 STR1 singleplex species PCR
+Halliday 1999 MFalpha/660 mating-type + variety coamplification	main	pattern	pattern	MFalpha (MATalpha) + 660 locus (C. gattii)	Halliday 1999 MFalpha/660 mating-type + variety coamplification
+Halliday 1999 STE12alpha mating-type PCR	supplement	complex	complex	MATalpha only: MAT not labelled here; DENOMINATOR CAVEAT (accepted 2026-10-19): scored against every genome of the complex, including those that cannot amplify (MATa isolates lack the target)	Halliday 1999 STE12alpha mating-type PCR
+Tay 2022 Cryptococcus cyt b real-time PCR + HRM	supplement	complex	complex	mitochondrial: assemblies may lack the mt genome; DENOMINATOR CAVEAT (accepted 2026-10-19): scored against every genome of the complex, including those that cannot amplify (assemblies without a mitochondrial genome)	Tay 2022 Cryptococcus cyt b real-time PCR + HRM
+Gago 2014 multiplex real-time PCR (molecular beacon)	supplement	complex	complex	beacon scored on its loop only (approximate)	Gago 2014 multiplex real-time PCR (molecular beacon)
+Mbangiwa 2024 QSP1 qPCR (C. neoformans)	main	C.neoformans	C.neoformans		Mbangiwa 2024 QSP1 qPCR (C. neoformans)
+Mbangiwa 2024 QSP1 qPCR (C. gattii)	main	gattii_complex	gattii_complex	WM276 (VGI) allele	Mbangiwa 2024 QSP1 qPCR (C. gattii)
+Mbangiwa 2024 QSP1 qPCR (C. deneoformans)	main	C.deneoformans	C.deneoformans		Mbangiwa 2024 QSP1 qPCR (C. deneoformans)
+Mbangiwa 2024 pan-Cryptococcus 28S qPCR	supplement	complex	complex		Mbangiwa 2024 pan-Cryptococcus 28S qPCR
+Gao 2026 duplex real-time DNA RPA (C. neoformans channel)	supplement	C.neoformans	C.neoformans	RPA scored as PCR (approximate)	Gao 2026 duplex real-time DNA RPA (C. neoformans channel)
+Ito-Kuwa 2007 LAC1/CAP64 multiplex serotype PCR	supplement	pattern	pattern	serotype band patterns	Ito-Kuwa 2007 LAC1/CAP64 multiplex serotype PCR
+Cogliati 2015 C. gattii sero-mating-type multiplex PCR	supplement	pattern	pattern	gattii serotype B/C x MAT	Cogliati 2015 C. gattii sero-mating-type multiplex PCR
+Leal 2008 Cryptococcus species multiplex PCR	supplement	pattern	pattern	695 CNa (C. neoformans), 448 CNb (gattii complex)	Leal 2008 Cryptococcus species multiplex PCR
+Veron 2009 Cryptococcus TaqMan real-time PCR	supplement	complex	complex	also C. amylolentus	Veron 2009 Cryptococcus TaqMan real-time PCR
+URA5-RFLP (Meyer et al. 2003)	main	complex	complex	typing by digest (r5_rflp.py)	URA5-RFLP (Meyer et al. 2003)
+PLB1-RFLP (Latouche et al. 2003)	main	complex	complex	typing by digest (r5_rflp.py)	PLB1-RFLP (Latouche et al. 2003)
+Gago 2011 ITS1 high-resolution melting PCR	supplement	complex	complex		Gago 2011 ITS1 high-resolution melting PCR
+Yan 2002	main	by_pair	by_pair	serotype A -> C.neoformans, D -> C.deneoformans; MAT not judged	Yan 2002 STE20/STE12 serotype + mating-type PCR
+Carvalho 2007	supplement	by_pair	by_pair	serotype A -> C.neoformans, D -> C.deneoformans; MAT not judged	Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD)
+Lengeler 2001	main	by_pair	by_pair	"serotype A -> C.neoformans, D -> C.deneoformans; ""A and D"" -> both; MAT not judged"	Lengeler 2001 serotype/mating-type allele panel

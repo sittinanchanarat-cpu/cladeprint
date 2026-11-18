@@ -1,0 +1,1623 @@
+{
+ "projects": {
+  "PRJNA1279626": {
+   "n_bs": 48,
+   "runs": 48,
+   "org": [
+    [
+     "Cryptococcus gattii",
+     35
+    ],
+    [
+     "Cryptococcus deuterogattii",
+     3
+    ],
+    [
+     "Cryptococcus hyracis",
+     2
+    ]
+   ],
+   "title": "Cryptococcus gattii genome sequencing 2",
+   "pmids": [],
+   "gb_per_sample": 0.73
+  },
+  "PRJEB111471": {
+   "n_bs": 17,
+   "runs": 17,
+   "org": [
+    [
+     "Cryptococcus gattii",
+     17
+    ]
+   ],
+   "title": "Sequencing of fluconazole resistant mutants in Cryptococcus gattii",
+   "pmids": [],
+   "gb_per_sample": 1.55
+  },
+  "PRJNA1103328": {
+   "n_bs": 713,
+   "runs": 713,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     609
+    ],
+    [
+     "Cryptococcus gattii",
+     104
+    ]
+   ],
+   "title": "Cryptococcus genome variation over the course of drug treatment",
+   "pmids": [],
+   "gb_per_sample": 1.23
+  },
+  "PRJNA1054030": {
+   "n_bs": 117,
+   "runs": 117,
+   "org": [
+    [
+     "Cryptococcus deuterogattii",
+     63
+    ],
+    [
+     "Cryptococcus gattii",
+     50
+    ],
+    [
+     "Cryptococcus bacillisporus",
+     3
+    ]
+   ],
+   "title": "Pan-mutiomics uncovers the multidrug-resistant fungal determinants, enabling machine learning-based prediction of multidrug-hyperresistant strains from an outbreak fungal species complex",
+   "pmids": [],
+   "gb_per_sample": 3.28
+  },
+  "PRJNA804139": {
+   "n_bs": 110,
+   "runs": 110,
+   "org": [
+    [
+     "Cryptococcus tetragattii",
+     110
+    ]
+   ],
+   "title": "Cryptococcus gattii VGIV sequencing and fluconazole resistance study",
+   "pmids": [],
+   "gb_per_sample": 1.87
+  },
+  "PRJNA826887": {
+   "n_bs": 5,
+   "runs": 5,
+   "org": [
+    [
+     "Cryptococcus gattii VGVI",
+     5
+    ]
+   ],
+   "title": "Cryptococcus gattii VGVI (C. decagatii) genome sequencing",
+   "pmids": [],
+   "gb_per_sample": 1.5
+  },
+  "PRJNA511460": {
+   "n_bs": 5,
+   "runs": 22,
+   "org": [
+    [
+     "Cryptococcus deuterogattii",
+     22
+    ]
+   ],
+   "title": "Cryptococcus deuterogattii Genome sequencing and assembly",
+   "pmids": [
+    "3",
+    "32310085"
+   ],
+   "gb_per_sample": 16.67
+  },
+  "PRJNA704667": {
+   "n_bs": 56,
+   "runs": 56,
+   "org": [
+    [
+     "Cryptococcus tetragattii",
+     23
+    ],
+    [
+     "Cryptococcus neoformans",
+     20
+    ],
+    [
+     "Cryptococcus deuterogattii VGIIa",
+     13
+    ]
+   ],
+   "title": "Genetic elements involved in the development of high frequency resistance to 5-fluorocytosine in Cryptococcus",
+   "pmids": [],
+   "gb_per_sample": 1.95
+  },
+  "PRJNA721774": {
+   "n_bs": 15,
+   "runs": 18,
+   "org": [
+    [
+     "Cryptococcus gattii",
+     18
+    ]
+   ],
+   "title": "Cryptococcus gattii VGI in China",
+   "pmids": [],
+   "gb_per_sample": 4.54
+  },
+  "PRJNA525019": {
+   "n_bs": 22,
+   "runs": 22,
+   "org": [
+    [
+     "Cryptococcus deuterogattii",
+     22
+    ]
+   ],
+   "title": "Hypermutation in Cryptococcus reveals a novel pathway to 5-fluorocytosine (5FC) resistance",
+   "pmids": [],
+   "gb_per_sample": 8.07
+  },
+  "PRJNA702892": {
+   "n_bs": 53,
+   "runs": 53,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     40
+    ],
+    [
+     "Cryptococcus deuterogattii",
+     8
+    ],
+    [
+     "Cryptococcus gattii",
+     5
+    ]
+   ],
+   "title": "genome sequencing of Cryptococcus brazialian isolates",
+   "pmids": [],
+   "gb_per_sample": 1.53
+  },
+  "PRJNA388113": {
+   "n_bs": 22,
+   "runs": 22,
+   "org": [
+    [
+     "Cryptococcus deuterogattii",
+     22
+    ]
+   ],
+   "title": "Cryptococcus deuterogattii Genome sequencing and assembly",
+   "pmids": [],
+   "gb_per_sample": 1.98
+  },
+  "PRJNA476154": {
+   "n_bs": 28,
+   "runs": 28,
+   "org": [
+    [
+     "Cryptococcus deuterogattii",
+     19
+    ],
+    [
+     "Cryptococcus gattii",
+     7
+    ],
+    [
+     "Cryptococcus tetragattii",
+     1
+    ]
+   ],
+   "title": "DNAseq of Cryptoccocus gattii VGI, VGII, VGIII, VGIV, VGVI (Farrer et al mBio 2019)",
+   "pmids": [
+    "3",
+    "31719178"
+   ],
+   "gb_per_sample": 1.69
+  },
+  "PRJNA480403": {
+   "n_bs": 6,
+   "runs": 6,
+   "org": [
+    [
+     "Cryptococcus hyracis",
+     6
+    ]
+   ],
+   "title": "DNAseq of Cryptoccocus gattii VGV (Farrer et al mBio 2019)",
+   "pmids": [
+    "3",
+    "31719178"
+   ],
+   "gb_per_sample": 1.67
+  },
+  "PRJNA289249": {
+   "n_bs": 63,
+   "runs": 63,
+   "org": [
+    [
+     "Cryptococcus gattii",
+     63
+    ]
+   ],
+   "title": "GMLST and Whole Genome based Population Analysis of Cryptococcus gattii VGIII links Clinical, Veterinary and Environmental Strain, Reveals Divergent Serotype Specific Sub-Populations and Distant Ancestors",
+   "pmids": [],
+   "gb_per_sample": 2.2
+  },
+  "PRJNA387047": {
+   "n_bs": 17,
+   "runs": 17,
+   "org": [
+    [
+     "Cryptococcus deuterogattii",
+     17
+    ]
+   ],
+   "title": "Cryptococcus deuterogattii Genome sequencing",
+   "pmids": [],
+   "gb_per_sample": 1.25
+  },
+  "PRJNA395628": {
+   "n_bs": 8,
+   "runs": 8,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     7
+    ],
+    [
+     "Cryptococcus deuterogattii",
+     1
+    ]
+   ],
+   "title": "Cryptococcus deuterogattii R265 RefSeq",
+   "pmids": [
+    "2",
+    "21304167",
+    "29507212"
+   ],
+   "gb_per_sample": 4.59
+  },
+  "PRJNA269039": {
+   "n_bs": 159,
+   "runs": 485,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     428
+    ],
+    [
+     "Cryptococcus bacillisporus",
+     57
+    ]
+   ],
+   "title": "Cryptococcus neoformans Genome sequencing",
+   "pmids": [],
+   "gb_per_sample": 1.58
+  },
+  "PRJNA295092": {
+   "n_bs": 12,
+   "runs": 12,
+   "org": [
+    [
+     "Cryptococcus bacillisporus",
+     12
+    ]
+   ],
+   "title": "Emergence of Cryptococcus gattii in the Southeastern United States: A whole genome analysis",
+   "pmids": [],
+   "gb_per_sample": 1.44
+  },
+  "PRJNA244927": {
+   "n_bs": 117,
+   "runs": 117,
+   "org": [
+    [
+     "Cryptococcus bacillisporus",
+     117
+    ]
+   ],
+   "title": "Cryptococcus bacillisporus Genome sequencing",
+   "pmids": [],
+   "gb_per_sample": 2.29
+  },
+  "PRJNA235210": {
+   "n_bs": 7,
+   "runs": 7,
+   "org": [
+    [
+     "Cryptococcus bacillisporus",
+     7
+    ]
+   ],
+   "title": "Cryptococcus gattii VGIII Genome sequencing",
+   "pmids": [],
+   "gb_per_sample": 3.6
+  },
+  "PRJNA254979": {
+   "n_bs": 39,
+   "runs": 39,
+   "org": [
+    [
+     "Cryptococcus deuterogattii",
+     39
+    ]
+   ],
+   "title": "Cryptococcus deuterogattii strain:VGII Genome sequencing",
+   "pmids": [],
+   "gb_per_sample": 2.33
+  },
+  "": {
+   "n_bs": 23,
+   "runs": 35,
+   "org": [
+    [
+     "Cryptococcus bacillisporus",
+     20
+    ],
+    [
+     "Cryptococcus neoformans",
+     15
+    ]
+   ],
+   "title": "",
+   "pmids": [],
+   "gb_per_sample": 0.83
+  },
+  "PRJNA183619": {
+   "n_bs": 24,
+   "runs": 24,
+   "org": [
+    [
+     "Cryptococcus deuterogattii CBS 10090",
+     1
+    ],
+    [
+     "Cryptococcus tetragattii CBS 10101",
+     1
+    ],
+    [
+     "Cryptococcus gattii CBS 10485",
+     1
+    ]
+   ],
+   "title": "DNAseq of Cryptococcus gattii VGI, VGII, VGIII and VGIV (Farrer et al 2016)",
+   "pmids": [
+    "2",
+    "28080992"
+   ],
+   "gb_per_sample": 2.14
+  },
+  "PRJNA957313": {
+   "n_bs": 63,
+   "runs": 63,
+   "org": [
+    [
+     "Sporothrix brasiliensis",
+     56
+    ],
+    [
+     "Sporothrix schenckii",
+     6
+    ],
+    [
+     "Sporothrix globosa",
+     1
+    ]
+   ],
+   "title": "Sporothrix WGS",
+   "pmids": [],
+   "gb_per_sample": 7.99
+  },
+  "PRJNA1024501": {
+   "n_bs": 13,
+   "runs": 13,
+   "org": [
+    [
+     "Sporothrix schenckii",
+     13
+    ]
+   ],
+   "title": "Sporothrix WGS",
+   "pmids": [],
+   "gb_per_sample": 5.56
+  },
+  "PRJNA1077318": {
+   "n_bs": 5,
+   "runs": 5,
+   "org": [
+    [
+     "Sporothrix schenckii",
+     5
+    ]
+   ],
+   "title": "Sporothrix schenckii Genome sequencing and assembly",
+   "pmids": [],
+   "gb_per_sample": 2.85
+  },
+  "PRJEB62835": {
+   "n_bs": 6,
+   "runs": 6,
+   "org": [
+    [
+     "Sporothrix epigloea",
+     2
+    ],
+    [
+     "Sporothrix eucalyptigena",
+     2
+    ],
+    [
+     "Sporothrix curviconia",
+     1
+    ]
+   ],
+   "title": "Massive gene loss in Sporothrix epigloea accompanied a shift to life in the Tremella fungal heteropolymer matrix",
+   "pmids": [],
+   "gb_per_sample": 12.48
+  },
+  "PRJNA607682": {
+   "n_bs": 22,
+   "runs": 22,
+   "org": [
+    [
+     "Sporothrix brasiliensis",
+     17
+    ],
+    [
+     "Sporothrix schenckii",
+     5
+    ]
+   ],
+   "title": "Natural variation of Sporothrix brasiliensis in different epidemic areas of the Brazilian territory",
+   "pmids": [],
+   "gb_per_sample": 5.63
+  },
+  "PRJNA836433": {
+   "n_bs": 7,
+   "runs": 7,
+   "org": [
+    [
+     "Sporothrix brasiliensis",
+     7
+    ]
+   ],
+   "title": "Sporothrix brasiliensis WGS",
+   "pmids": [],
+   "gb_per_sample": 1.86
+  },
+  "PRJNA927289": {
+   "n_bs": 13,
+   "runs": 13,
+   "org": [
+    [
+     "Sporothrix brasiliensis",
+     13
+    ]
+   ],
+   "title": "Sporothrix brasiliensis WGS",
+   "pmids": [],
+   "gb_per_sample": 1.63
+  },
+  "PRJNA432267": {
+   "n_bs": 24,
+   "runs": 24,
+   "org": [
+    [
+     "Sporothrix schenckii",
+     24
+    ]
+   ],
+   "title": "Sporothrix schenckii Genome sequencing and assembly",
+   "pmids": [],
+   "gb_per_sample": 0.28
+  },
+  "PRJNA1459063": {
+   "n_bs": 62,
+   "runs": 62,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     62
+    ]
+   ],
+   "title": "Systematic Profiling of Essential Fungal Transcription Factors of Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 3.88
+  },
+  "PRJEB76062": {
+   "n_bs": 150,
+   "runs": 150,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     150
+    ]
+   ],
+   "title": "Genome sequencing of clinical C. neoformans in China",
+   "pmids": [],
+   "gb_per_sample": 2.71
+  },
+  "PRJNA1328773": {
+   "n_bs": 152,
+   "runs": 152,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     152
+    ]
+   ],
+   "title": "Cryptococcus neoformans Raw sequence reads",
+   "pmids": [],
+   "gb_per_sample": 4.06
+  },
+  "PRJDB39076": {
+   "n_bs": 81,
+   "runs": 81,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     81
+    ]
+   ],
+   "title": "Chinese C neoformans isolates sequencing (PRJCA044073)",
+   "pmids": [],
+   "gb_per_sample": 4.53
+  },
+  "PRJNA1397472": {
+   "n_bs": 23,
+   "runs": 23,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     23
+    ]
+   ],
+   "title": "Cryptococcus neoformans H99 Raw sequence reads",
+   "pmids": [],
+   "gb_per_sample": 5.89
+  },
+  "PRJNA1269048": {
+   "n_bs": 108,
+   "runs": 108,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     108
+    ]
+   ],
+   "title": "Cryptococcus neoformans Raw sequence reads",
+   "pmids": [],
+   "gb_per_sample": 4.29
+  },
+  "PRJNA1281806": {
+   "n_bs": 5,
+   "runs": 5,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     5
+    ]
+   ],
+   "title": "77 101 100 105 99 97 108 32 99 97 110 110 97 98 105 115 32 97 115 32 116 104 101 32 115 111 117 114 99 101 32 111 102 32 67 114 121 112 116 111 99 111 99 99 117 115 32 110 101 111 102 111 114 109 97 110 115 32 118 97 114 46 32 103 114 117 98 105 105",
+   "pmids": [],
+   "gb_per_sample": 1.58
+  },
+  "PRJNA1306639": {
+   "n_bs": 17,
+   "runs": 17,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     17
+    ]
+   ],
+   "title": "Cryptococcus neoformans calcineurin thermoregulation project",
+   "pmids": [],
+   "gb_per_sample": 1.02
+  },
+  "PRJNA1284035": {
+   "n_bs": 46,
+   "runs": 46,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     46
+    ]
+   ],
+   "title": "Clinical Cases of Human Cryptococcosis from Duke University Hospitals Collected from January 1, 1990 - December 31, 2023",
+   "pmids": [],
+   "gb_per_sample": 1.49
+  },
+  "PRJNA1284378": {
+   "n_bs": 8,
+   "runs": 8,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     8
+    ]
+   ],
+   "title": "Mouse MHC-adapted Cryptococcus neoformans H99W",
+   "pmids": [],
+   "gb_per_sample": 2.34
+  },
+  "PRJNA906915": {
+   "n_bs": 20,
+   "runs": 20,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     20
+    ]
+   ],
+   "title": "DNAseq, RNAseq and ChIPseq (H3K4me2 and H3K9me2) of Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 3.66
+  },
+  "PRJNA1279655": {
+   "n_bs": 25,
+   "runs": 25,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     25
+    ]
+   ],
+   "title": "Cryptococcus neoformans genome sequencing",
+   "pmids": [],
+   "gb_per_sample": 0.71
+  },
+  "PRJNA1222431": {
+   "n_bs": 9,
+   "runs": 9,
+   "org": [
+    [
+     "Cryptococcus neoformans RSA-MW-1186",
+     1
+    ],
+    [
+     "Cryptococcus neoformans RSA-MW-3316",
+     1
+    ],
+    [
+     "Cryptococcus neoformans RSA-MW-3335",
+     1
+    ]
+   ],
+   "title": "Long read sequencing and de novo genome assembly of Cryptococcus neoformans clinical isolates",
+   "pmids": [],
+   "gb_per_sample": 4.85
+  },
+  "PRJNA1182044": {
+   "n_bs": 105,
+   "runs": 105,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     105
+    ]
+   ],
+   "title": "Whole-genome sequencing data of 105 Cryptococcus neoformans isolates from HIV-infected and HIV-uninfected patients and environmental sources.",
+   "pmids": [],
+   "gb_per_sample": 4.25
+  },
+  "PRJNA1190938": {
+   "n_bs": 7,
+   "runs": 7,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     7
+    ]
+   ],
+   "title": "Identification and mechanism of a highly selective, antifungal acetyl CoA synthetase inhibitor",
+   "pmids": [],
+   "gb_per_sample": 1.25
+  },
+  "PRJNA1194150": {
+   "n_bs": 10,
+   "runs": 10,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     10
+    ]
+   ],
+   "title": "Cryptococcus neoformans Raw sequence reads",
+   "pmids": [],
+   "gb_per_sample": 4.39
+  },
+  "PRJNA1254625": {
+   "n_bs": 25,
+   "runs": 25,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     25
+    ]
+   ],
+   "title": "Cryptococcus neoformans strain:KN99 Raw sequence reads",
+   "pmids": [],
+   "gb_per_sample": 3.9
+  },
+  "PRJNA1146342": {
+   "n_bs": 38,
+   "runs": 38,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     38
+    ]
+   ],
+   "title": "Cryptococcus neoformans Raw sequence reads",
+   "pmids": [],
+   "gb_per_sample": 7.37
+  },
+  "PRJNA1141514": {
+   "n_bs": 40,
+   "runs": 40,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     40
+    ]
+   ],
+   "title": "Virulence associated variants in Cryptococcus neoformans sequence type 93 are less likely to be associated with population structure compared to independent rare mutations",
+   "pmids": [],
+   "gb_per_sample": 0.73
+  },
+  "PRJEB75213": {
+   "n_bs": 27,
+   "runs": 27,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     27
+    ]
+   ],
+   "title": "H99 derived Uniconazole (1ug/mL) adaptors",
+   "pmids": [],
+   "gb_per_sample": 1.27
+  },
+  "PRJEB75221": {
+   "n_bs": 30,
+   "runs": 30,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     30
+    ]
+   ],
+   "title": "H99 derived uniconzole (0.25ug/mL and 2ug/mL) adaptors",
+   "pmids": [],
+   "gb_per_sample": 1.2
+  },
+  "PRJEB75214": {
+   "n_bs": 16,
+   "runs": 16,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     16
+    ]
+   ],
+   "title": "AFR1 deletion strain derived uniconazole adaptors",
+   "pmids": [],
+   "gb_per_sample": 1.43
+  },
+  "PRJNA1138746": {
+   "n_bs": 20,
+   "runs": 20,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     20
+    ]
+   ],
+   "title": "Distinct evolutionary trajectories following loss of RNA interference in Cryptococcus neoformans",
+   "pmids": [
+    "3",
+    "39185155"
+   ],
+   "gb_per_sample": 1.82
+  },
+  "PRJNA1104773": {
+   "n_bs": 41,
+   "runs": 41,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     41
+    ]
+   ],
+   "title": "Cross-resistance evolution between statins and fluconazole in fungal pathogens",
+   "pmids": [],
+   "gb_per_sample": 3.82
+  },
+  "PRJNA1000292": {
+   "n_bs": 5,
+   "runs": 5,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     5
+    ]
+   ],
+   "title": "Cryptococcus neoformans Genome sequencing and assembly",
+   "pmids": [],
+   "gb_per_sample": 7.91
+  },
+  "PRJNA1006382": {
+   "n_bs": 86,
+   "runs": 86,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     86
+    ]
+   ],
+   "title": "Cryptococcus neoformans Raw sequence reads",
+   "pmids": [],
+   "gb_per_sample": 2.31
+  },
+  "PRJNA1094434": {
+   "n_bs": 7,
+   "runs": 7,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     7
+    ]
+   ],
+   "title": "CO2 adaptation in the global fungal pathogen Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 0.3
+  },
+  "PRJNA1096649": {
+   "n_bs": 8,
+   "runs": 9,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     9
+    ]
+   ],
+   "title": "Genetics of thermotolerance in Cryptococcus neoformans",
+   "pmids": [
+    "4",
+    "40839773"
+   ],
+   "gb_per_sample": 3.56
+  },
+  "PRJEB59046": {
+   "n_bs": 29,
+   "runs": 29,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     29
+    ]
+   ],
+   "title": "Cryptococcus neoformans TJ1843 DNA-seq derived fluconazole adaptors",
+   "pmids": [],
+   "gb_per_sample": 1.94
+  },
+  "PRJEB58805": {
+   "n_bs": 29,
+   "runs": 29,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     29
+    ]
+   ],
+   "title": "TJ1854 derived flucnaozle adaptors",
+   "pmids": [],
+   "gb_per_sample": 1.51
+  },
+  "PRJNA1014009": {
+   "n_bs": 5,
+   "runs": 5,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     3
+    ],
+    [
+     "Cryptococcus neoformans A7-35-23",
+     2
+    ]
+   ],
+   "title": "Investigation of CO2 tolerance in the global pathogen Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 2.94
+  },
+  "PRJEB57997": {
+   "n_bs": 72,
+   "runs": 72,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     72
+    ]
+   ],
+   "title": "Whole genome sequencing of chlorothalonil adaptors in Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.42
+  },
+  "PRJEB58798": {
+   "n_bs": 29,
+   "runs": 29,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     29
+    ]
+   ],
+   "title": "Cryptococcus neoformans strain TJ1854 derived amphotericin B adaptors",
+   "pmids": [],
+   "gb_per_sample": 1.65
+  },
+  "PRJEB57981": {
+   "n_bs": 23,
+   "runs": 23,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     23
+    ]
+   ],
+   "title": "Whole genome sequencing of pyraclostrobin adaptors in Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.44
+  },
+  "PRJEB56873": {
+   "n_bs": 61,
+   "runs": 61,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     61
+    ]
+   ],
+   "title": "Whole genome sequencing of Cryptococcus neoformans adaptors derived from exposure to supra-MIC amount of brefeldin A",
+   "pmids": [],
+   "gb_per_sample": 1.64
+  },
+  "PRJEB56678": {
+   "n_bs": 23,
+   "runs": 23,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     23
+    ]
+   ],
+   "title": "Whole genome sequencing of revertants derived from aneuploid Cryptococcus neoformans strains",
+   "pmids": [],
+   "gb_per_sample": 1.34
+  },
+  "PRJEB56636": {
+   "n_bs": 41,
+   "runs": 41,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     41
+    ]
+   ],
+   "title": "Whole genome sequencing of supra-MIC tunicamycin adaptors in Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.24
+  },
+  "PRJEB56356": {
+   "n_bs": 31,
+   "runs": 31,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     31
+    ]
+   ],
+   "title": "Whole genome sequencing of brefeldin A adaptors in Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.11
+  },
+  "PRJEB59586": {
+   "n_bs": 29,
+   "runs": 29,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     29
+    ]
+   ],
+   "title": "TJ1849 derived fluconazole adaptors",
+   "pmids": [],
+   "gb_per_sample": 1.32
+  },
+  "PRJEB58045": {
+   "n_bs": 59,
+   "runs": 59,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     59
+    ]
+   ],
+   "title": "Whole genome sequencing of iprodione adaptors in Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.33
+  },
+  "PRJEB57996": {
+   "n_bs": 60,
+   "runs": 60,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     60
+    ]
+   ],
+   "title": "Whole genome sequencing of azoxystrobin adaptors in Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.24
+  },
+  "PRJEB57820": {
+   "n_bs": 60,
+   "runs": 60,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     60
+    ]
+   ],
+   "title": "Whole genome sequencing of benomyl adaptors in Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.75
+  },
+  "PRJEB58835": {
+   "n_bs": 30,
+   "runs": 30,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     30
+    ]
+   ],
+   "title": "DNA-seq of Cryptococcus neoformans H99 derived amphotericin B adaptors",
+   "pmids": [],
+   "gb_per_sample": 1.91
+  },
+  "PRJEB59566": {
+   "n_bs": 29,
+   "runs": 29,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     29
+    ]
+   ],
+   "title": "TJ1843 derived amphotericin B (8ug/ml) adaptors",
+   "pmids": [],
+   "gb_per_sample": 2.25
+  },
+  "PRJEB56625": {
+   "n_bs": 7,
+   "runs": 7,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     7
+    ]
+   ],
+   "title": "Whole genome sequencing of sub-MIC tunicamycin adaptors in Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.33
+  },
+  "PRJEB58044": {
+   "n_bs": 60,
+   "runs": 60,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     60
+    ]
+   ],
+   "title": "Whole genome sequencing of tebuconazole adaptors in Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.22
+  },
+  "PRJNA999197": {
+   "n_bs": 209,
+   "runs": 209,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     209
+    ]
+   ],
+   "title": "Genomics and hybrid speciation in the fungal pathogen Cryptococcus deneoformans",
+   "pmids": [],
+   "gb_per_sample": 3.88
+  },
+  "PRJNA967729": {
+   "n_bs": 390,
+   "runs": 390,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     390
+    ]
+   ],
+   "title": "Cryptococcus neoformans Raw sequence reads",
+   "pmids": [],
+   "gb_per_sample": 1.08
+  },
+  "PRJNA932005": {
+   "n_bs": 384,
+   "runs": 384,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     384
+    ]
+   ],
+   "title": "Cryptococcus neoformans Raw sequence reads",
+   "pmids": [],
+   "gb_per_sample": 0.66
+  },
+  "PRJEB56885": {
+   "n_bs": 31,
+   "runs": 31,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     31
+    ]
+   ],
+   "title": "Whole genome sequencing of aureobasidin A adaptors in Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 2.81
+  },
+  "PRJNA941895": {
+   "n_bs": 17,
+   "runs": 18,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     18
+    ]
+   ],
+   "title": "Experimental Evolution of Cryptococcus neoformans in Mouse Macrophages",
+   "pmids": [],
+   "gb_per_sample": 4.89
+  },
+  "PRJNA749953": {
+   "n_bs": 5,
+   "runs": 38,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     38
+    ]
+   ],
+   "title": "Rampant transposition following RNAi loss cause hypermutation and antifungal drug resistance in Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 26.49
+  },
+  "PRJNA928602": {
+   "n_bs": 8,
+   "runs": 8,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     8
+    ]
+   ],
+   "title": "Cryptococcus neoformans Genome sequencing and  transcriptome analysis",
+   "pmids": [],
+   "gb_per_sample": 1.42
+  },
+  "PRJNA764746": {
+   "n_bs": 284,
+   "runs": 284,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     284
+    ]
+   ],
+   "title": "Cryptococcus neoformans Raw sequence reads",
+   "pmids": [],
+   "gb_per_sample": 4.06
+  },
+  "PRJNA794155": {
+   "n_bs": 7,
+   "runs": 7,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     7
+    ]
+   ],
+   "title": "Transposon mobility and genome-wide mutations in Cryptococcus neoformans var. neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.89
+  },
+  "PRJEB28390": {
+   "n_bs": 64,
+   "runs": 65,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     65
+    ]
+   ],
+   "title": "Single-end reads of serial isolates from cryptococcal meningitis cases",
+   "pmids": [],
+   "gb_per_sample": 1.59
+  },
+  "PRJEB45546": {
+   "n_bs": 55,
+   "runs": 55,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     55
+    ]
+   ],
+   "title": "Whole genome sequencing of flucytosine adaptors in Cryptocooccus neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.44
+  },
+  "PRJEB43413": {
+   "n_bs": 46,
+   "runs": 46,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     46
+    ]
+   ],
+   "title": "Whole genome sequencing of fluconazole adaptors in Cryptococcus neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.12
+  },
+  "PRJNA725418": {
+   "n_bs": 11,
+   "runs": 11,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     11
+    ]
+   ],
+   "title": "Cryptococcus neoformans var grubii environmental isolates",
+   "pmids": [],
+   "gb_per_sample": 0.38
+  },
+  "PRJEB44391": {
+   "n_bs": 28,
+   "runs": 28,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     28
+    ]
+   ],
+   "title": "Whole genome sequecing of Cryptococcus neoformans treated with tunicamycin adaptors",
+   "pmids": [],
+   "gb_per_sample": 1.4
+  },
+  "PRJEB43398": {
+   "n_bs": 29,
+   "runs": 29,
+   "org": [
+    [
+     "Cryptococcus neoformans H99",
+     29
+    ]
+   ],
+   "title": "Whole genome sequencing of amphotericin B adaptors in Cryptocooccus neoformans",
+   "pmids": [],
+   "gb_per_sample": 1.41
+  },
+  "PRJNA680424": {
+   "n_bs": 28,
+   "runs": 28,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     28
+    ]
+   ],
+   "title": "Whole Genome Sequencing: Identification of genomic differences correlated to Cryptococcus neoformans pathogenicity",
+   "pmids": [],
+   "gb_per_sample": 2.26
+  },
+  "PRJNA682203": {
+   "n_bs": 6,
+   "runs": 78,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     78
+    ]
+   ],
+   "title": "Uniparental reproduction in Cryptococcus neoformans",
+   "pmids": [
+    "3",
+    "34338631"
+   ],
+   "gb_per_sample": 36.11
+  },
+  "PRJNA669191": {
+   "n_bs": 29,
+   "runs": 29,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     29
+    ]
+   ],
+   "title": "Cryptococcus neoformans Genome sequencing and assembly",
+   "pmids": [],
+   "gb_per_sample": 2.45
+  },
+  "PRJNA626676": {
+   "n_bs": 19,
+   "runs": 19,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     19
+    ]
+   ],
+   "title": "Cryptococcus neoformans and Cryptococcus deneoformans raw sequence reads",
+   "pmids": [],
+   "gb_per_sample": 2.49
+  },
+  "PRJNA640358": {
+   "n_bs": 30,
+   "runs": 30,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     30
+    ]
+   ],
+   "title": "Cryptococcus neoformans microevolution in amoebae",
+   "pmids": [
+    "3",
+    "33906924"
+   ],
+   "gb_per_sample": 2.77
+  },
+  "PRJNA549026": {
+   "n_bs": 56,
+   "runs": 56,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     56
+    ]
+   ],
+   "title": "Identification of pathogen genomic differences that impact human immune response and disease during Cryptococcus neoformans infection",
+   "pmids": [],
+   "gb_per_sample": 1.46
+  },
+  "PRJNA565894": {
+   "n_bs": 7,
+   "runs": 7,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     7
+    ]
+   ],
+   "title": "Cryptococcus neoformans Genome sequencing",
+   "pmids": [],
+   "gb_per_sample": 0.92
+  },
+  "PRJNA533587": {
+   "n_bs": 9,
+   "runs": 9,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     9
+    ]
+   ],
+   "title": "Genome sequencing of Cryptococcus neoformans isolates from Turkey",
+   "pmids": [
+    "3",
+    "31788454"
+   ],
+   "gb_per_sample": 10.5
+  },
+  "PRJNA577944": {
+   "n_bs": 5,
+   "runs": 10,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     10
+    ]
+   ],
+   "title": "Centromere scission drives chromosome shuffling and reproductive isolation",
+   "pmids": [
+    "3",
+    "32193338"
+   ],
+   "gb_per_sample": 5.11
+  },
+  "PRJNA517966": {
+   "n_bs": 8,
+   "runs": 8,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     8
+    ]
+   ],
+   "title": "Genome sequencing of 8 isolates of Cryptococcus neoformans var. grubii",
+   "pmids": [
+    "3",
+    "31955845"
+   ],
+   "gb_per_sample": 3.83
+  },
+  "PRJEB27222": {
+   "n_bs": 415,
+   "runs": 415,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     415
+    ]
+   ],
+   "title": "Cryptococcus neoformans var grubii genome sequencing",
+   "pmids": [],
+   "gb_per_sample": 1.38
+  },
+  "PRJEB13331": {
+   "n_bs": 7,
+   "runs": 25,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     25
+    ]
+   ],
+   "title": "Cryptococcus_neoformans_reference_PacBio_sequencing",
+   "pmids": [],
+   "gb_per_sample": 2.72
+  },
+  "PRJEB19514": {
+   "n_bs": 119,
+   "runs": 119,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     119
+    ]
+   ],
+   "title": "Global population genomics of Cryptococcus neoformans var. grubii reveals new biogeographic relationships and finely maps hybridization",
+   "pmids": [],
+   "gb_per_sample": 3.14
+  },
+  "PRJNA353284": {
+   "n_bs": 12,
+   "runs": 12,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     12
+    ]
+   ],
+   "title": "Cryptococcus neoformans reference strain genome sequencing",
+   "pmids": [],
+   "gb_per_sample": 0.98
+  },
+  "PRJNA384617": {
+   "n_bs": 9,
+   "runs": 59,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     59
+    ]
+   ],
+   "title": "Cryptococcus neoformans var. grubii KN99 genome sequencing and annotation",
+   "pmids": [],
+   "gb_per_sample": 6.21
+  },
+  "PRJEB11842": {
+   "n_bs": 35,
+   "runs": 35,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     35
+    ]
+   ],
+   "title": "Reoccurrence of infection by Cryptococcus neoformans var. grubii (Cng) after treatment, which can occur either via relapse of the original infection of re-infection of a different strain, is problematic in sub-Saharan Africa.",
+   "pmids": [],
+   "gb_per_sample": 2.32
+  },
+  "PRJEB5282": {
+   "n_bs": 509,
+   "runs": 509,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     509
+    ]
+   ],
+   "title": "Whole_genome_sequencing_of_Cryptococcus_neoformans",
+   "pmids": [],
+   "gb_per_sample": 0.74
+  },
+  "PRJEB14735": {
+   "n_bs": 39,
+   "runs": 39,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     39
+    ]
+   ],
+   "title": "VNB Cng",
+   "pmids": [],
+   "gb_per_sample": 2.51
+  },
+  "PRJEB13814": {
+   "n_bs": 47,
+   "runs": 47,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     47
+    ]
+   ],
+   "title": "Zambian Cng environmental and Clinical",
+   "pmids": [],
+   "gb_per_sample": 2.72
+  },
+  "PRJEB7411": {
+   "n_bs": 11,
+   "runs": 11,
+   "org": [
+    [
+     "Cryptococcus neoformans",
+     11
+    ]
+   ],
+   "title": "Comparison of library preparation methods using Cryptococcus neoformans var. grubii",
+   "pmids": [],
+   "gb_per_sample": 3.32
+  }
+ },
+ "pubmed": {
+  "2": "Bose KS 1975 Biochem Biophys Res Commun: Delineation of the intimate details of the backbone conformation of pyridine nucleotide co",
+  "21304167": "D'Souza CA 2011 mBio: Genome variation in Cryptococcus gattii, an emerging pathogen of immunocompetent hosts.",
+  "28080992": "Farrer RA 2016 Philos Trans R Soc Lond B Biol Sci: Microevolutionary traits and comparative population genomics of the emerging pathogenic fu",
+  "29507212": "Yadav V 2018 Proc Natl Acad Sci U S A: RNAi is a critical determinant of centromere evolution in closely related fungi.",
+  "3": "Smith RJ 1975 Biochem Biophys Res Commun: Metal substitutions incarbonic anhydrase: a halide ion probe study.",
+  "31719178": "Farrer RA 2019 mBio: A New Lineage of Cryptococcus gattii (VGV) Discovered in the Central Zambezian Miombo Wood",
+  "31788454": "Ergin \u00c7 2019 Front Cell Infect Microbiol: Cryptococcus neoformans Recovered From Olive Trees (Olea europaea) in Turkey Reveal Allopa",
+  "31955845": "Catania S 2020 Cell: Evolutionary Persistence of DNA Methylation for Millions of Years after Ancient Loss of a ",
+  "32193338": "Yadav V 2020 Proc Natl Acad Sci U S A: Centromere scission drives chromosome shuffling and reproductive isolation.",
+  "32310085": "Schotanus K 2020 Elife: Centromere deletion in Cryptococcus deuterogattii leads to neocentromere formation and chr",
+  "33906924": "Fu MS 2021 mBio: Amoeba Predation of Cryptococcus neoformans Results in Pleiotropic Changes to Traits Assoc",
+  "34338631": "Yadav V 2021 Elife: Uniparental nuclear inheritance following bisexual mating in fungi.",
+  "39185155": "Huang J 2024 bioRxiv: Distinct evolutionary trajectories following loss of RNA interference in Cryptococcus neof",
+  "4": "Wiesmann UN 1975 Biochem Biophys Res Commun: Effect of chloroquine on cultured fibroblasts: release of lysosomal hydrolases and inhibit",
+  "40839773": "Schwiesow MJW 2025 Genetics: Distinct routes to thermotolerance in the fungal pathogen Cryptococcus neoformans."
+ }
+}

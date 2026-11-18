@@ -1,0 +1,30 @@
+key	target	note
+Mitchell 1994 CN rDNA species PCR	complex	CN4/CN5/CN6 pairs; ITS1-ITS4 is universal
+Rappelli 1998 nested CSF PCR	complex	labelled C. neoformans (1998: whole complex)
+Bialek 2002 nested 18S PCR + LightCycler FRET	complex	labelled C. neoformans (2002: whole complex)
+Aoki 1999 serotype A RAPD-derived PCR (CNa-70)	C.neoformans	serotype A
+Aoki 1999 serotype A RAPD-derived PCR (CNa-29)	C.neoformans	serotype A
+Aoki 1999 serotype B PCR (CNb-49)	gattii_complex	serotype B, also C
+Aoki 1999 preliminary serotype AD PCR (CNad-4)	C.deneoformans	serotype AD (preliminary): D allele assumed
+Aoki 1999 preliminary serotype D PCR (CNd-2)	C.deneoformans	serotype D
+Enache-Angoulvant 2007 CAP59 PCR-REA / fragment-length serotyping	pattern	all serotypes; sizes differ by serotype
+Feng 2013 STR1 singleplex species PCR	pattern	274 grubii / 224 neoformans / 170 gattii
+Halliday 1999 MFalpha/660 mating-type + variety coamplification	pattern	MFalpha (MATalpha) + 660 locus (C. gattii)
+Halliday 1999 STE12alpha mating-type PCR	complex	MATalpha only: MAT not labelled here
+Tay 2022 Cryptococcus cyt b real-time PCR + HRM	complex	mitochondrial: assemblies may lack the mt genome
+Gago 2014 multiplex real-time PCR (molecular beacon)	complex	beacon scored on its loop only (approximate)
+Mbangiwa 2024 QSP1 qPCR (C. neoformans)	C.neoformans	
+Mbangiwa 2024 QSP1 qPCR (C. gattii)	gattii_complex	WM276 (VGI) allele
+Mbangiwa 2024 QSP1 qPCR (C. deneoformans)	C.deneoformans	
+Mbangiwa 2024 pan-Cryptococcus 28S qPCR	complex	
+Gao 2026 duplex real-time DNA RPA (C. neoformans channel)	C.neoformans	RPA scored as PCR (approximate)
+Ito-Kuwa 2007 LAC1/CAP64 multiplex serotype PCR	pattern	serotype band patterns
+Cogliati 2015 C. gattii sero-mating-type multiplex PCR	pattern	gattii serotype B/C x MAT
+Leal 2008 Cryptococcus species multiplex PCR	pattern	695 CNa (C. neoformans), 448 CNb (gattii complex)
+Veron 2009 Cryptococcus TaqMan real-time PCR	complex	also C. amylolentus
+URA5-RFLP (Meyer et al. 2003)	complex	typing by digest (r5_rflp.py)
+PLB1-RFLP (Latouche et al. 2003)	complex	typing by digest (r5_rflp.py)
+Gago 2011 ITS1 high-resolution melting PCR	complex	
+Yan 2002	by_pair	serotype A -> C.neoformans, D -> C.deneoformans; MAT not judged
+Carvalho 2007	by_pair	serotype A -> C.neoformans, D -> C.deneoformans; MAT not judged
+Lengeler 2001	by_pair	serotype A -> C.neoformans, D -> C.deneoformans; "A and D" -> both; MAT not judged

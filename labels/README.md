@@ -1,0 +1,4 @@
+# Labels
+
+- `literature_labels.tsv`: lineage labels from Rhodes 2017, Desjardins 2017 and Ashton 2019, linked to census runs (`build_labels.py`).
+- `corrections.tsv` (built by `build_corrections.py`): labels we found to be wrong or ambiguous, with the evidence and whether our own data verify them. Kept separate: `literature_labels.tsv` stays as published, so every correction is traceable. The corrected-labels resource of paper 1. 42 rows (2026-10-15): 1 lineage (102-14); 19 species, all verified by our species screen (Ashton 2019's 17 species calls hold: 5 AD hybrids; their 12 "C. gattii" are 6 C. gattii s.s., 4 C. deuterogattii, 2 C. tetragattii); 21 runs filed under the broad pre-2015 name *C. gattii* that belong to other species of the complex (1 tentative); 1 resolved conflict (MW-RSA852, not verifiable with our run).

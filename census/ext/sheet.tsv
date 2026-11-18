@@ -1,0 +1,53 @@
+sample	reads	isolate	lineage	set	country
+SRR798679	-	SRR797737	VNIb	pure	Italy
+SRR798689	-	SRR797784	VNIc	pure	Botswana
+SRR798645	-	SRR798819	VNIa	pure	Botswana
+SRR797745	-	SRR797746	VNIc	pure	S. Africa
+SRR798280	-	Bt5	VNBII	pure	Botswana
+SRR798209	-	LP-RSA2296	VNIa	pure	S. Africa
+SRR798796	-	SRR797789	VNIc	pure	S. Africa
+SRR797803	-	Bt89	VNBII	pure	Botswana
+SRR798210	-	LP-RSA116	VNIc	pure	S. Africa
+SRR797753	-	Bt32	VNBII	pure	Botswana
+SRR842059	-	SRR836898	VNIa	pure	Japan
+SRR799002	-	Bt34	VNBII	pure	Botswana
+SRR798824	-	Bt50	VNB/VNB	hybrid	Botswana
+SRR1942931	-	PMHc1045.ENR.STOR	VNII/VNB	hybrid	Botswana
+SRR798671	-	Bt9	VNI/VNI	hybrid	Botswana
+SRR836729	-	Bt125	VNI/VNB	hybrid	Botswana
+SRR842055	-	Bt158	VNB/VNB	hybrid	Botswana
+SRR1942907	-	Ftc260-1	VNI/VNB	hybrid	Botswana
+SRR836850	-	Bt162	VNI/VNB	hybrid	Botswana
+SRR836748	-	Bt131	VNI/VNB	hybrid	Botswana
+SRR799006	-	Bt163	VNI/VNB	hybrid	Botswana
+SRR822483	-	Bt66	VNI/VNB	hybrid	Botswana
+SRR798580	-	Bt29	VNI/VNI	hybrid	Botswana
+ERR2017151	-	IFN26	VNB/VNIV	hybrid	S. Africa
+ERR2017149	-	CCTP44	VNB/VNIV	hybrid	S. Africa
+ERR1810384	-	CCTP50	VNB/VNIV	hybrid	S. Africa
+ERR2017153	-	RCT14	VNB/VNIV	hybrid	S. Africa
+SRR1063248	-	102-14	VNI/VNB	hybrid	USA
+ERR1810413	-	IFN-R23	VNB/VNIV	hybrid	S. Africa
+ERR1810414	-	IFN-R21	VNB/VNIV	hybrid	S. Africa
+ERR2017150	-	IFN-R26	VNB/VNIV	hybrid	S. Africa
+ERR2017152	-	IFN62	VNB/VNIV	hybrid	S. Africa
+SRR1063259	-	MMRL1368	VNI/VNI	hybrid	Argentina
+SRR1063250	-	1035	VNII/VNII	hybrid	Australia
+SRR1063251	-	1052	VNII/VNII	hybrid	Australia
+ERR2017154	-	INCr025a	VNI/VG	hybrid	India
+SRR1063260	-	MMRL2445	VNB/VNB	hybrid	Brazil
+SRR1063252	-	1054	VNII/VNII	hybrid	Australia
+SRR1063281	-	SB4	VNI/VNI	hybrid	Brazil
+SRR1063249	-	1033	VNII/VNII	hybrid	Australia
+ERR2017148	-	Cng9	VNII/VNB	hybrid	
+ERR2017155	-	CCTP51	VNII/VNB	hybrid	S. Africa
+SRR798131	-	Bt40	VNBII	reserve	Botswana
+SRR797770	-	Bt55	VNBII	reserve	Botswana
+SRR798588	-	SRR797778	VNIa	reserve	Botswana
+SRR822922	-	Bt56	VNBII	reserve	Botswana
+SRR798846	-	Bt76	VNBII	reserve	Botswana
+SRR825376	-	Bt33	VNBII	reserve	Botswana
+SRR823912	-	Bt81	VNBII	reserve	Botswana
+SRR798213	-	Bt54	VNBII	reserve	Botswana
+SRR798295	-	Bt31	VNBII	reserve	Botswana
+SRR822896	-	Bt52	VNBII	reserve	Botswana

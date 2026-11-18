@@ -1,0 +1,148 @@
+reaction	rule	target	n_target	target_hit	n_nontarget	nontarget_hit	ad_hybrid_hit	outside_complex_hit	C.bacillisporus	C.decagattii	C.deneoformans	C.deuterogattii	C.gattii	C.neoformans	C.tetragattii
+Mitchell 1994 CN rDNA species PCR	strict	complex	241.0	0.884	0.0		8/9	15/24							
+Mitchell 1994 CN rDNA species PCR	soft	complex	241.0	0.884	0.0		8/9	15/24							
+Mitchell 1994 CN rDNA species PCR	lenient	complex	241.0	0.884	0.0		8/9	15/24							
+Rappelli 1998 nested CSF PCR	strict	complex	241.0	0.884	0.0		8/9	10/24							
+Rappelli 1998 nested CSF PCR	soft	complex	241.0	0.884	0.0		8/9	10/24							
+Rappelli 1998 nested CSF PCR	lenient	complex	241.0	0.884	0.0		8/9	10/24							
+Bialek 2002 nested 18S PCR + LightCycler FRET	strict	complex	241.0	0.88	0.0		8/9	5/24							
+Bialek 2002 nested 18S PCR + LightCycler FRET	soft	complex	241.0	0.88	0.0		8/9	5/24							
+Bialek 2002 nested 18S PCR + LightCycler FRET	lenient	complex	241.0	0.88	0.0		8/9	5/24							
+Aoki 1999 serotype A RAPD-derived PCR (CNa-70)	strict	C.neoformans	203.0	0.99	38.0	0.105	5/9	0/24							
+Aoki 1999 serotype A RAPD-derived PCR (CNa-70)	soft	C.neoformans	203.0	0.99	38.0	0.105	5/9	0/24							
+Aoki 1999 serotype A RAPD-derived PCR (CNa-70)	lenient	C.neoformans	203.0	0.99	38.0	0.105	5/9	0/24							
+Aoki 1999 serotype A RAPD-derived PCR (CNa-29)	strict	C.neoformans	203.0	1.0	38.0	0.105	5/9	0/24							
+Aoki 1999 serotype A RAPD-derived PCR (CNa-29)	soft	C.neoformans	203.0	1.0	38.0	0.447	8/9	1/24							
+Aoki 1999 serotype A RAPD-derived PCR (CNa-29)	lenient	C.neoformans	203.0	1.0	38.0	0.447	8/9	1/24							
+Aoki 1999 serotype B PCR (CNb-49)	strict	C.bacillisporus+C.decagattii+C.deuterogattii+C.gattii+C.tetragattii	25.0	0.56	216.0	0.0	0/9	0/24							
+Aoki 1999 serotype B PCR (CNb-49)	soft	C.bacillisporus+C.decagattii+C.deuterogattii+C.gattii+C.tetragattii	25.0	0.56	216.0	0.0	0/9	0/24							
+Aoki 1999 serotype B PCR (CNb-49)	lenient	C.bacillisporus+C.decagattii+C.deuterogattii+C.gattii+C.tetragattii	25.0	0.56	216.0	0.0	0/9	0/24							
+Aoki 1999 preliminary serotype AD PCR (CNad-4)	strict	C.deneoformans	13.0	1.0	228.0	0.0	6/9	0/24							
+Aoki 1999 preliminary serotype AD PCR (CNad-4)	soft	C.deneoformans	13.0	1.0	228.0	0.0	6/9	0/24							
+Aoki 1999 preliminary serotype AD PCR (CNad-4)	lenient	C.deneoformans	13.0	1.0	228.0	0.0	6/9	0/24							
+Aoki 1999 preliminary serotype D PCR (CNd-2)	strict	C.deneoformans	13.0	0.0	228.0	0.0	0/9	0/24							
+Aoki 1999 preliminary serotype D PCR (CNd-2)	soft	C.deneoformans	13.0	0.0	228.0	0.0	0/9	0/24							
+Aoki 1999 preliminary serotype D PCR (CNd-2)	lenient	C.deneoformans	13.0	0.0	228.0	0.0	0/9	0/24							
+Enache-Angoulvant 2007 CAP59 PCR-REA / fragment-length serotyping	strict	pattern					9/9	1/24	360 (2/2)	360 (2/2)	380 (12/13)	370 (8/14)	none (6/6)	390 (169/203)	none (1/1)
+Enache-Angoulvant 2007 CAP59 PCR-REA / fragment-length serotyping	soft	pattern					9/9	1/24	360 (2/2)	360 (2/2)	380 (12/13)	370 (8/14)	none (6/6)	390 (169/203)	none (1/1)
+Enache-Angoulvant 2007 CAP59 PCR-REA / fragment-length serotyping	lenient	pattern					9/9	10/24	360 (2/2)	360 (2/2)	380 (12/13)	370 (8/14)	360 (4/6)	390 (169/203)	360 (1/1)
+Feng 2013 STR1 singleplex species PCR	strict	pattern					7/9	2/24	170 (2/2)	170 (2/2)	220 (9/13)	170 (14/14)	170 (6/6)	270 (202/203)	170 (1/1)
+Feng 2013 STR1 singleplex species PCR	soft	pattern					7/9	2/24	170 (2/2)	170 (2/2)	220 (9/13)	170 (14/14)	170 (6/6)	270 (202/203)	170 (1/1)
+Feng 2013 STR1 singleplex species PCR	lenient	pattern					7/9	2/24	170 (2/2)	170 (2/2)	220 (9/13)	170 (14/14)	170 (6/6)	270 (202/203)	170 (1/1)
+Halliday 1999 MFalpha/660 mating-type + variety coamplification	strict	pattern					5/9	1/24	110 | none (1/2 each)	110 | none (1/2 each)	110 (7/13)	110 | none (7/14 each)	220 (6/6)	110 (123/203)	110 (1/1)
+Halliday 1999 MFalpha/660 mating-type + variety coamplification	soft	pattern					5/9	1/24	110 | none (1/2 each)	110 | none (1/2 each)	110 (7/13)	110 | none (7/14 each)	110+220 (5/6)	110 (123/203)	110 (1/1)
+Halliday 1999 MFalpha/660 mating-type + variety coamplification	lenient	pattern					5/9	1/24	110 | none (1/2 each)	110 | none (1/2 each)	110 (8/13)	110 | none (7/14 each)	110+220 (5/6)	110 (132/203)	110 (1/1)
+Halliday 1999 STE12alpha mating-type PCR	strict	complex	241.0	0.88	0.0		4/9	1/24							
+Halliday 1999 STE12alpha mating-type PCR	soft	complex	241.0	0.88	0.0		4/9	1/24							
+Halliday 1999 STE12alpha mating-type PCR	lenient	complex	241.0	0.88	0.0		4/9	1/24							
+Tay 2022 Cryptococcus cyt b real-time PCR + HRM	strict	complex	241.0	0.0	0.0		0/9	0/24							
+Tay 2022 Cryptococcus cyt b real-time PCR + HRM	soft	complex	241.0	0.0	0.0		0/9	0/24							
+Tay 2022 Cryptococcus cyt b real-time PCR + HRM	lenient	complex	241.0	0.0	0.0		0/9	0/24							
+Gago 2014 multiplex real-time PCR (molecular beacon)	strict	complex	241.0	0.888	0.0		8/9	9/24							
+Gago 2014 multiplex real-time PCR (molecular beacon)	soft	complex	241.0	0.888	0.0		8/9	9/24							
+Gago 2014 multiplex real-time PCR (molecular beacon)	lenient	complex	241.0	0.888	0.0		8/9	10/24							
+Mbangiwa 2024 QSP1 qPCR (C. neoformans)	strict	C.neoformans	203.0	0.966	38.0	0.105	4/9	0/24							
+Mbangiwa 2024 QSP1 qPCR (C. neoformans)	soft	C.neoformans	203.0	0.966	38.0	0.105	4/9	0/24							
+Mbangiwa 2024 QSP1 qPCR (C. neoformans)	lenient	C.neoformans	203.0	0.966	38.0	0.105	4/9	0/24							
+Mbangiwa 2024 QSP1 qPCR (C. gattii)	strict	C.bacillisporus+C.decagattii+C.deuterogattii+C.gattii+C.tetragattii	25.0	0.92	216.0	0.0	0/9	1/24							
+Mbangiwa 2024 QSP1 qPCR (C. gattii)	soft	C.bacillisporus+C.decagattii+C.deuterogattii+C.gattii+C.tetragattii	25.0	0.92	216.0	0.0	0/9	1/24							
+Mbangiwa 2024 QSP1 qPCR (C. gattii)	lenient	C.bacillisporus+C.decagattii+C.deuterogattii+C.gattii+C.tetragattii	25.0	0.92	216.0	0.0	0/9	1/24							
+Mbangiwa 2024 QSP1 qPCR (C. deneoformans)	strict	C.deneoformans	13.0	0.923	228.0	0.0	5/9	0/24							
+Mbangiwa 2024 QSP1 qPCR (C. deneoformans)	soft	C.deneoformans	13.0	0.923	228.0	0.0	5/9	0/24							
+Mbangiwa 2024 QSP1 qPCR (C. deneoformans)	lenient	C.deneoformans	13.0	0.923	228.0	0.0	5/9	0/24							
+Mbangiwa 2024 pan-Cryptococcus 28S qPCR	strict	complex	241.0	0.884	0.0		9/9	8/24							
+Mbangiwa 2024 pan-Cryptococcus 28S qPCR	soft	complex	241.0	0.884	0.0		9/9	8/24							
+Mbangiwa 2024 pan-Cryptococcus 28S qPCR	lenient	complex	241.0	0.884	0.0		9/9	10/24							
+Ito-Kuwa 2007 LAC1/CAP64 multiplex serotype PCR	strict	pattern					7/9	1/24	410 (2/2)	none (2/2)	400+760+1050 (12/13)	none (14/14)	410 (6/6)	none (203/203)	410 (1/1)
+Ito-Kuwa 2007 LAC1/CAP64 multiplex serotype PCR	soft	pattern					7/9	1/24	410 (2/2)	none (2/2)	400+760+1050 (12/13)	none (14/14)	410 (6/6)	none (203/203)	410 (1/1)
+Ito-Kuwa 2007 LAC1/CAP64 multiplex serotype PCR	lenient	pattern					7/9	1/24	410 (2/2)	1050 (2/2)	400+760+1050 (12/13)	1040 (14/14)	410 (6/6)	none (203/203)	410 (1/1)
+Cogliati 2015 C. gattii sero-mating-type multiplex PCR	strict	pattern					0/9	1/24	290+320 | 320+500 (1/2 each)	290+320 | 320+480 (1/2 each)	none (13/13)	320+500+530 (10/14)	320+530 (5/6)	none (203/203)	320+500+530 (1/1)
+Cogliati 2015 C. gattii sero-mating-type multiplex PCR	soft	pattern					0/9	1/24	290+320 | 320+500 (1/2 each)	290+320 | 320+480 (1/2 each)	none (13/13)	320+500+530 (10/14)	320+530 (5/6)	none (203/203)	320+500+530 (1/1)
+Cogliati 2015 C. gattii sero-mating-type multiplex PCR	lenient	pattern					0/9	1/24	290+320+500 | 320+500 (1/2 each)	290+320+500 | 320+480 (1/2 each)	none (13/13)	320+500+530 (10/14)	320+530 (5/6)	none (203/203)	320+500+530 (1/1)
+Leal 2008 Cryptococcus species multiplex PCR	strict	pattern					5/9	0/24	none (2/2)	none (2/2)	none (9/13)	450 (14/14)	none (6/6)	700 (193/203)	none (1/1)
+Leal 2008 Cryptococcus species multiplex PCR	soft	pattern					5/9	0/24	none (2/2)	none (2/2)	none (9/13)	450 (14/14)	none (6/6)	700 (193/203)	none (1/1)
+Leal 2008 Cryptococcus species multiplex PCR	lenient	pattern					5/9	0/24	none (2/2)	none (2/2)	none (9/13)	450 (14/14)	none (6/6)	700 (193/203)	none (1/1)
+Veron 2009 Cryptococcus TaqMan real-time PCR	strict	complex	241.0	0.871	0.0		8/9	3/24							
+Veron 2009 Cryptococcus TaqMan real-time PCR	soft	complex	241.0	0.871	0.0		8/9	3/24							
+Veron 2009 Cryptococcus TaqMan real-time PCR	lenient	complex	241.0	0.888	0.0		8/9	3/24							
+URA5-RFLP (Meyer et al. 2003)	strict	complex	241.0	0.925	0.0		9/9	1/24							
+URA5-RFLP (Meyer et al. 2003)	soft	complex	241.0	0.929	0.0		9/9	1/24							
+URA5-RFLP (Meyer et al. 2003)	lenient	complex	241.0	0.929	0.0		9/9	1/24							
+PLB1-RFLP (Latouche et al. 2003)	strict	complex	241.0	0.979	0.0		8/9	0/24							
+PLB1-RFLP (Latouche et al. 2003)	soft	complex	241.0	0.979	0.0		8/9	0/24							
+PLB1-RFLP (Latouche et al. 2003)	lenient	complex	241.0	0.979	0.0		8/9	0/24							
+Gago 2011 ITS1 high-resolution melting PCR	strict	complex	241.0	0.896	0.0		8/9	3/24							
+Gago 2011 ITS1 high-resolution melting PCR	soft	complex	241.0	0.896	0.0		8/9	3/24							
+Gago 2011 ITS1 high-resolution melting PCR	lenient	complex	241.0	0.896	0.0		8/9	3/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Aa Forward+STE20Aa Reverse	strict	C.neoformans	203.0	0.084	38.0	0.0	3/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Aa Forward+STE20Aa Reverse	soft	C.neoformans	203.0	0.084	38.0	0.0	3/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Aa Forward+STE20Aa Reverse	lenient	C.neoformans	203.0	0.084	38.0	0.0	3/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Aalpha Forward+STE20Aalpha Reverse	strict	C.neoformans	203.0	0.916	38.0	0.079	3/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Aalpha Forward+STE20Aalpha Reverse	soft	C.neoformans	203.0	0.916	38.0	0.079	3/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Aalpha Forward+STE20Aalpha Reverse	lenient	C.neoformans	203.0	0.916	38.0	0.079	3/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Da Forward+STE20Da Reverse	strict	C.deneoformans	13.0	0.462	228.0	0.0	2/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Da Forward+STE20Da Reverse	soft	C.deneoformans	13.0	0.462	228.0	0.0	2/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Da Forward+STE20Da Reverse	lenient	C.deneoformans	13.0	0.462	228.0	0.0	2/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Dalpha Forward+STE20Dalpha Reverse	strict	C.deneoformans	13.0	0.692	228.0	0.873	5/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Dalpha Forward+STE20Dalpha Reverse	soft	C.deneoformans	13.0	0.692	228.0	0.873	5/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE20Dalpha Forward+STE20Dalpha Reverse	lenient	C.deneoformans	13.0	0.692	228.0	0.899	5/9	1/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE12alpha Forward+STE12alpha Reverse	strict	C.deneoformans+C.neoformans	216.0	0.875	25.0	0.0	3/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE12alpha Forward+STE12alpha Reverse	soft	C.deneoformans+C.neoformans	216.0	0.875	25.0	0.0	3/9	0/24							
+Yan 2002 STE20/STE12 serotype + mating-type PCR: STE12alpha Forward+STE12alpha Reverse	lenient	C.deneoformans+C.neoformans	216.0	0.903	25.0	0.68	5/9	1/24							
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE 7264+JOHE 7265	strict	C.neoformans	203.0	0.0	38.0	0.0	0/9	0/24							
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE 7264+JOHE 7265	soft	C.neoformans	203.0	0.0	38.0	0.0	0/9	0/24							
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE 7264+JOHE 7265	lenient	C.neoformans	203.0	0.916	38.0	0.079	3/9	0/24							
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE 7273+JOHE 7275	strict	C.deneoformans	13.0	0.385	228.0	0.0	2/9	0/24							
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE 7273+JOHE 7275	soft	C.deneoformans	13.0	0.462	228.0	0.0	2/9	0/24							
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE 7273+JOHE 7275	lenient	C.deneoformans	13.0	0.462	228.0	0.0	2/9	0/24							
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE7270+JOHE7272	strict	C.neoformans	203.0	0.0	38.0	0.0	0/9	0/24							
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE7270+JOHE7272	soft	C.neoformans	203.0	0.0	38.0	0.0	0/9	0/24							
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE7270+JOHE7272	lenient	C.neoformans	203.0	0.0	38.0	0.0	0/9	0/24							
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE7267+JOHE7268	strict	C.deneoformans	13.0	0.538	228.0	0.0	2/9	0/24							
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE7267+JOHE7268	soft	C.deneoformans	13.0	0.538	228.0	0.0	2/9	0/24							
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD): JOHE7267+JOHE7268	lenient	C.deneoformans	13.0	0.538	228.0	0.0	2/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE1909+JOHE1910	strict	C.deneoformans	13.0	0.0	228.0	0.0	0/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE1909+JOHE1910	soft	C.deneoformans	13.0	0.385	228.0	0.0	0/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE1909+JOHE1910	lenient	C.deneoformans	13.0	0.385	228.0	0.0	0/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE3067+JOHE3068	strict	C.deneoformans	13.0	0.462	228.0	0.0	2/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE3067+JOHE3068	soft	C.deneoformans	13.0	0.462	228.0	0.075	5/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE3067+JOHE3068	lenient	C.deneoformans	13.0	0.462	228.0	0.075	5/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE3069+JOHE3070	strict	C.deneoformans	13.0	0.692	228.0	0.873	5/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE3069+JOHE3070	soft	C.deneoformans	13.0	0.692	228.0	0.873	5/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE3069+JOHE3070	lenient	C.deneoformans	13.0	0.692	228.0	0.899	5/9	1/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE5169+JOHE5170	strict	C.neoformans	203.0	0.084	38.0	0.0	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE5169+JOHE5170	soft	C.neoformans	203.0	0.084	38.0	0.0	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE5169+JOHE5170	lenient	C.neoformans	203.0	0.084	38.0	0.0	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE2472+JOHE2578	strict	C.neoformans	203.0	0.916	38.0	0.079	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE2472+JOHE2578	soft	C.neoformans	203.0	0.916	38.0	0.079	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE2472+JOHE2578	lenient	C.neoformans	203.0	0.916	38.0	0.079	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE1895+JOHE1896	strict	C.deneoformans	13.0	0.538	228.0	0.061	2/9	1/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE1895+JOHE1896	soft	C.deneoformans	13.0	0.538	228.0	0.061	2/9	1/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE1895+JOHE1896	lenient	C.deneoformans	13.0	0.538	228.0	0.061	2/9	1/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE1671+JOHE1672	strict	C.deneoformans+C.neoformans	216.0	0.875	25.0	0.0	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE1671+JOHE1672	soft	C.deneoformans+C.neoformans	216.0	0.875	25.0	0.0	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE1671+JOHE1672	lenient	C.deneoformans+C.neoformans	216.0	0.903	25.0	0.68	5/9	1/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE3065+JOHE3066	strict	C.deneoformans	13.0	1.0	228.0	0.0	5/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE3065+JOHE3066	soft	C.deneoformans	13.0	1.0	228.0	0.0	5/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE3065+JOHE3066	lenient	C.deneoformans	13.0	1.0	228.0	0.0	5/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE2926+JOHE3238	strict	C.deneoformans	13.0	1.0	228.0	0.0	7/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE2926+JOHE3238	soft	C.deneoformans	13.0	1.0	228.0	0.0	7/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE2926+JOHE3238	lenient	C.deneoformans	13.0	1.0	228.0	0.0	7/9	1/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE2596+JOHE3240	strict	C.deneoformans	13.0	0.769	228.0	0.0	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE2596+JOHE3240	soft	C.deneoformans	13.0	0.769	228.0	0.0	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: JOHE2596+JOHE3240	lenient	C.deneoformans	13.0	0.769	228.0	0.0	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A048+A050	strict	C.neoformans	203.0	0.0	38.0	0.0	0/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A048+A050	soft	C.neoformans	203.0	0.0	38.0	0.0	0/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A048+A050	lenient	C.neoformans	203.0	0.0	38.0	0.0	0/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A053+A052	strict	C.neoformans	203.0	0.872	38.0	0.079	2/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A053+A052	soft	C.neoformans	203.0	0.872	38.0	0.079	2/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A053+A052	lenient	C.neoformans	203.0	0.872	38.0	0.079	2/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A054+A056	strict	C.neoformans	203.0	0.808	38.0	0.026	1/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A054+A056	soft	C.neoformans	203.0	0.808	38.0	0.026	1/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A054+A056	lenient	C.neoformans	203.0	0.808	38.0	0.026	1/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A057+A059	strict	C.neoformans	203.0	0.985	38.0	0.105	5/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A057+A059	soft	C.neoformans	203.0	0.995	38.0	0.105	5/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A057+A059	lenient	C.neoformans	203.0	0.995	38.0	0.105	5/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A048+A050v	strict	C.neoformans	203.0	0.916	38.0	0.079	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A048+A050v	soft	C.neoformans	203.0	0.916	38.0	0.079	3/9	0/24							
+Lengeler 2001 serotype/mating-type allele panel: A048+A050v	lenient	C.neoformans	203.0	0.916	38.0	0.079	3/9	0/24							

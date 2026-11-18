@@ -1,0 +1,51 @@
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.1.1
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 1 BAM file                                       ||
+||                                                                            ||
+||                           SRR1015479.unsorted.bam                          ||
+||                                                                            ||
+||             Output file : SRR1015479.counts.tsv                            ||
+||                 Summary : SRR1015479.counts.tsv.summary                    ||
+||              Paired-end : no                                               ||
+||        Count read pairs : no                                               ||
+||              Annotation : genes.saf (SAF)                                  ||
+||      Dir for temp files : sub                                              ||
+||                                                                            ||
+||                 Threads : 4                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file genes.saf ...                                         ||
+||    Features : 39526                                                        ||
+||    Meta-features : 6756                                                    ||
+||    Chromosomes/contigs : 14                                                ||
+||                                                                            ||
+|| Process BAM file SRR1015479.unsorted.bam...                                ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 11845219                                             ||
+||    Successfully assigned alignments : 8052142 (68.0%)                      ||
+||    Running time : 0.19 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+|| Summary of counting results can be found in file "sub/SRR1015479.counts.t  ||
+|| sv.summary"                                                                ||
+||                                                                            ||
+\\============================================================================//
+

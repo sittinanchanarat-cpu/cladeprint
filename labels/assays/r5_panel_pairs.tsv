@@ -1,0 +1,25 @@
+assay	pair	f_id	r_id	target
+Yan 2002 STE20/STE12 serotype + mating-type PCR	STE20Aa Forward+STE20Aa Reverse	A060	A061	STE20a, serotype A (MATa)
+Yan 2002 STE20/STE12 serotype + mating-type PCR	STE20Aalpha Forward+STE20Aalpha Reverse	A062	A063	STE20alpha, serotype A (MATalpha)
+Yan 2002 STE20/STE12 serotype + mating-type PCR	STE20Da Forward+STE20Da Reverse	A064	A065	STE20a, serotype D (MATa)
+Yan 2002 STE20/STE12 serotype + mating-type PCR	STE20Dalpha Forward+STE20Dalpha Reverse	A066	A067	STE20alpha, serotype D (MATalpha)
+Yan 2002 STE20/STE12 serotype + mating-type PCR	STE12alpha Forward+STE12alpha Reverse	A068	A069	STE12alpha (MATalpha, serotypes A and D)
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD)	JOHE 7264+JOHE 7265	A070	A071	MATalpha serotype A (STE20-based)
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD)	JOHE 7273+JOHE 7275	A072	A073	MATa serotype D
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD)	JOHE7270+JOHE7272	A074	A075	MATa serotype A
+Carvalho 2007 multiplex serotype+MAT (alphaA/aD and aA/alphaD)	JOHE7267+JOHE7268	A076	A077	MATalpha serotype D
+Lengeler 2001 serotype/mating-type allele panel	JOHE1909+JOHE1910	A036	A037	MFalpha2, serotype D
+Lengeler 2001 serotype/mating-type allele panel	JOHE3067+JOHE3068	A038	A039	STE20a, serotype D
+Lengeler 2001 serotype/mating-type allele panel	JOHE3069+JOHE3070	A040	A041	STE20alpha, serotype D
+Lengeler 2001 serotype/mating-type allele panel	JOHE5169+JOHE5170	A042	A043	STE20a, serotype A
+Lengeler 2001 serotype/mating-type allele panel	JOHE2472+JOHE2578	A044	A045	STE20alpha, serotype A
+Lengeler 2001 serotype/mating-type allele panel	JOHE1895+JOHE1896	A046	A047	STE11alpha, serotype D
+Lengeler 2001 serotype/mating-type allele panel	JOHE1671+JOHE1672	A048	A049	STE12alpha, serotypes A and D
+Lengeler 2001 serotype/mating-type allele panel	JOHE3065+JOHE3066	A051	A052	CLA4, serotype D
+Lengeler 2001 serotype/mating-type allele panel	JOHE2926+JOHE3238	A054	A055	CNA1, serotypes D and A
+Lengeler 2001 serotype/mating-type allele panel	JOHE2596+JOHE3240	A057	A058	GPA1, serotypes D and A
+Lengeler 2001 serotype/mating-type allele panel	A048+A050	A048	A050	STE12alpha, serotype A (JOHE1671+JOHE2189)
+Lengeler 2001 serotype/mating-type allele panel	A053+A052	A053	A052	CLA4, serotype A (JOHE3236+JOHE3066)
+Lengeler 2001 serotype/mating-type allele panel	A054+A056	A054	A056	CNA1, serotype A (JOHE2926+JOHE3239)
+Lengeler 2001 serotype/mating-type allele panel	A057+A059	A057	A059	GPA1, serotype A (JOHE2596+JOHE3241)
+Lengeler 2001 serotype/mating-type allele panel	A048+A050v	A048	A050v	STE12alpha, serotype A (JOHE1671+JOHE2189 corrected 3' end, sensitivity)

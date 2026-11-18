@@ -1,0 +1,12 @@
+gene	cds_bp	YPD_full_reads	YPD_full_TPM	YPD_full_pct	YPD_reads	YPD_TPM	YPD_pct	exvivo_CSF_reads	exvivo_CSF_TPM	exvivo_CSF_pct	invivo_CSF_reads	invivo_CSF_TPM	invivo_CSF_pct	exvivo_CSF_log2FC	exvivo_CSF_log2FC_pct	invivo_CSF_log2FC	invivo_CSF_log2FC_pct
+F4600C flank (CNAG_05835)	1704	7328	123.1	78	1700	118.1	77	16124	874.8	98	9691	659.0	96	2.88	99	2.47	99
+F4610W HOC1 a-1,6-mannosyltransferase	1503	4394	83.7	68	1075	84.7	69	752	46.3	65	1061	81.8	80	-0.86	43	-0.05	76
+F4620C uncharacterized	975	1251	36.7	38	311	37.8	39	365	34.6	55	45	5.3	11	-0.12	69	-2.61	6
+F4630C hypothetical 807 aa	2619	2182	23.9	23	518	23.4	23	505	17.8	30	127	5.6	12	-0.38	60	-1.88	18
+F4640C amino-acid transporter	1425	535	10.7	9	123	10.2	8	146	9.5	14	118	9.6	21	-0.1	69	-0.08	75
+F4650W uncharacterized	984	1009	29.4	30	232	27.9	28	154	14.5	24	41	4.8	10	-0.9	42	-2.31	10
+F4660C dihydropyrimidinase	1422	883	17.8	16	211	17.6	16	228	14.8	24	31	2.5	5	-0.23	65	-2.4	9
+F4670W 2OG-oxygenase-like	999	955	27.4	27	234	27.7	28	273	25.3	43	51	5.9	13	-0.13	69	-2.06	14
+F4680W uncharacterized	1017	334	9.4	7	64	7.5	6	131	11.9	19	74	8.4	19	0.61	87	0.16	81
+F4690W RGD1 Rho-GAP	2442	2507	29.4	30	569	27.6	28	830	31.4	51	94	4.5	9	0.18	78	-2.39	9
+F4700C flank (partial model)	204	11516	1616.3	99	2772	1609.2	99	1022	463.2	96	278	157.9	89	-1.79	16	-3.34	2

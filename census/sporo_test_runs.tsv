@@ -1,0 +1,6 @@
+biosample	run	set	ncbi_species	origin	strain	country	bioproject	platform	layout	spots	size_MB	read_length	enough_spots
+SAMN32908729	SRR23217756	sporothrix	brasiliensis	natural	132988	Brazil	PRJNA927289	ILLUMINA	PAIRED	5175355	213.0	300	True
+SAMN01932840	SRR798684	cryptococcus	gattii	natural	EJB2	USA	PRJNA191325	ILLUMINA	PAIRED	1457153	137.0	202	True
+SAMN34250126	SRR24215201	sporothrix	globosa	natural	B22143	missing	PRJNA957313	ILLUMINA	PAIRED	10513534	1241.0	355	True
+SAMN48050273	SRR33209298	sporothrix	other_Sporothrix	natural	10859	Brazil	PRJNA1252419	ILLUMINA	PAIRED	3795553	365.0	300	True
+SAMN00103270	SRR960755	sporothrix	schenckii	natural	missing	missing	PRJNA217088	ILLUMINA	PAIRED	1564239	148.0	202	True

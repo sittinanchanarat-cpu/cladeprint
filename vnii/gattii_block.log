@@ -1,0 +1,47 @@
+VNII-only segments >= 60 bp: 713; aligned to another species: 235; baseline 1007/1426
+  VNII-only: median identity 0.942, >= 98%: 31%; C. gattii hits 69 at median 0.987
+  H99 baseline: median identity 0.929, >= 98%: 5%; C. gattii hits 51 at median 0.935
+  >= 98% hits per target: {'gattii|NC_014943.1': 47, 'tetragattii|NC_089946.1': 6, 'bacillisporus|NC_089933.1': 6}
+
+Block: 64 unitigs, 16,496 bp of marker sequence, WM276 chrF 923,608-946,951
+  gattii         aligned 64/64, identity 0.9837
+  deuterogattii  aligned 57/64, identity 0.9403
+  bacillisporus  aligned 63/64, identity 0.9568
+  tetragattii    aligned 62/64, identity 0.9542
+  decagattii     aligned 63/64, identity 0.9494
+  deneoformans   aligned 25/64, identity 0.8723
+
+WM276 chrF 900-970 kb vs H99 (asm20):
+  WM276 959,556-970,001 -> H99 NC_026751.1 1,024,662-1,035,140  id 0.874
+  WM276 943,998-951,323 -> H99 NC_026751.1 1,008,852-1,016,232  id 0.860
+  WM276 903,227-910,388 -> H99 NC_026751.1 980,933-988,156  id 0.848
+  WM276 914,637-918,407 -> H99 NC_026751.1 994,812-998,601  id 0.851
+  WM276 954,824-959,117 -> H99 NC_026751.1 1,019,918-1,024,200  id 0.829
+  WM276 919,140-921,130 -> H99 NC_026751.1 999,445-1,001,447  id 0.878
+  WM276 951,915-954,021 -> H99 NC_026751.1 1,017,046-1,019,142  id 0.858
+  WM276 901,716-902,943 -> H99 NC_026751.1 979,433-980,649  id 0.876
+  WM276 900,000-900,990 -> H99 NC_026751.1 977,944-978,944  id 0.867
+
+Genes overlapping the block:
+             start     end                                  product
+locus                                                              
+CGB_F4610W  925125  926838  alpha-1,6-mannosyltransferase, putative
+CGB_F4620C  927087  928214                  uncharacterized protein
+CGB_F4630C  928884  932456                     Hypothetical Protein
+CGB_F4640C  933165  934993                     Hypothetical Protein
+CGB_F4650W  935449  936886                  uncharacterized protein
+CGB_F4660C  937648  939818            dihydropyrimidinase, putative
+CGB_F4670W  940038  941462                  uncharacterized protein
+CGB_F4680W  942501  943619                  uncharacterized protein
+CGB_F4690W  943995  947019      GTPase activating protein, putative
+
+Block k-mers: 14,576; share present per isolate:
+         count   min    50%    max
+lineage                           
+VNBI      16.0  0.00  0.000  0.000
+VNBII     13.0  0.00  0.000  0.016
+VNII      42.0  0.13  0.987  0.998
+VNIa      24.0  0.00  0.000  0.000
+VNIb      14.0  0.00  0.000  0.000
+VNIc      13.0  0.00  0.000  0.000
+VNII training isolates: 37 from 11 countries, block 0.918-0.999

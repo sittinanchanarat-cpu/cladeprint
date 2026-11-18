@@ -1,0 +1,124 @@
+
+### SRR18672038: 2 contigs
+k29_4 len 42592  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  --ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggGGGGGGGGGGGGGGGGNNNNNNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+  switch G->N at contig 24400-24400: H99 ~1,012,196  WM276 ~947,299
+  H99: contig 21089-42592 -> 1,008,842-1,030,362 (+) id 0.959
+  WM276: contig 330-28444 -> 923,314-951,311 (+) id 0.959
+k29_2 len 24929  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  nnnnnnNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn--
+  H99: contig 0-24530 -> 979,825-1,004,296 (+) id 0.978
+  WM276: contig 1117-8347 -> 903,226-910,382 (+) id 0.847
+
+### ERR2017259: 4 contigs
+k119_3 len 38381  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggGGGGGGGGGGGGGGGGNNNNNNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+  switch G->N at contig 20200-20200: H99 ~1,012,227  WM276 ~947,330
+  H99: contig 16858-38381 -> 1,008,842-1,030,419 (+) id 0.960
+  WM276: contig 0-24212 -> 927,214-951,311 (+) id 0.958
+k119_0 len 23577  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  --nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGNNN
+  switch N->G at contig 22600-22600: H99 ~981,998  WM276 ~904,297
+  switch G->N at contig 22800-22800: H99 ~981,798  WM276 ~904,095
+  H99: contig 259-23489 -> 981,112-1,004,296 (-) id 0.977
+  WM276: contig 16452-23437 -> 903,459-910,382 (-) id 0.854
+k119_1 len 4277  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  GGGGGGGGGGggggggggg--
+  H99: contig 0-2093 -> 1,004,729-1,006,794 (-) id 0.848
+  WM276: contig 0-3919 -> 923,314-927,034 (-) id 0.962
+k119_2 len 1457  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  nG?NNNN
+  switch G->N at contig 400-600: H99 ~980,619  WM276 ~902,912
+  H99: contig 0-1457 -> 979,662-981,022 (-) id 0.916
+  WM276: contig 21-1407 -> 901,995-903,378 (-) id 0.909
+
+### ERR2017265: 4 contigs
+k119_0 len 23545  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  -NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn-
+  H99: contig 24-23247 -> 981,112-1,004,296 (+) id 0.979
+  WM276: contig 76-7055 -> 903,459-910,382 (+) id 0.850
+k119_3 len 21550  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  --gggggggggGGGGGGGGGGGggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+  H99: contig 2183-4473 -> 1,004,729-1,007,010 (+) id 0.849
+  WM276: contig 357-21550 -> 923,314-944,206 (+) id 0.974
+k119_2 len 20949  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnNNNNNNNNNNNNNNNNNNNNGGGGGGGGGGGGG
+  switch N->G at contig 18200-18200: H99 ~1,012,186  WM276 ~947,289
+  H99: contig 0-20946 -> 1,009,417-1,030,362 (-) id 0.963
+  WM276: contig 14147-20946 -> 944,543-951,311 (-) id 0.907
+k119_1 len 1197  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  nnN?G
+  switch N->G at contig 600-800: H99 ~980,652  WM276 ~902,948
+  H99: contig 0-1172 -> 979,955-981,121 (+) id 0.902
+  WM276: contig 224-1144 -> 902,472-903,378 (+) id 0.946
+
+### SRR6448795: 4 contigs
+k141_5 len 35326  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnNNNNNNNNNNNNNNNNNNNNGGGGGGGGGGGGGGGGgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+  switch N->G at contig 18000-18000: H99 ~1,012,224  WM276 ~947,327
+  H99: contig 0-21340 -> 1,008,842-1,030,197 (-) id 0.959
+  WM276: contig 13986-35275 -> 930,127-951,311 (-) id 0.954
+k141_2 len 21727  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnNNNNNNNNNNNNNNNNNNNNNNNNNN
+  H99: contig 187-21701 -> 982,825-1,004,296 (-) id 0.979
+  WM276: contig 16380-21666 -> 905,124-910,382 (-) id 0.864
+k141_1 len 6928  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  ggggggggggggggGGGGGGGGGGgggggggggg
+  H99: contig 2705-4995 -> 1,004,729-1,007,010 (-) id 0.850
+  WM276: contig 0-6821 -> 923,314-930,058 (-) id 0.972
+k141_3 len 1773  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  -NNNGNNN
+  switch N->G at contig 800-800: H99 ~981,839  WM276 ~904,140
+  switch G->N at contig 1000-1000: H99 ~982,043  WM276 ~904,342
+  H99: contig 67-1772 -> 981,112-982,787 (+) id 0.953
+  WM276: contig 119-1767 -> 903,459-905,074 (+) id 0.832
+
+### SRR836595: 6 contigs
+k79_1 len 22899  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  -ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggGGGGGGGGg
+  H99: contig 20906-22702 -> 1,008,842-1,010,613 (+) id 0.869
+  WM276: contig 147-22899 -> 923,314-945,971 (+) id 0.975
+k79_0 len 19208  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  GGGGGG?NNNNNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+  switch G->N at contig 1200-1400: H99 ~1,012,176  WM276 ~947,280
+  H99: contig 0-19208 -> 1,010,880-1,030,007 (+) id 0.970
+  WM276: contig 0-5364 -> 945,980-951,311 (+) id 0.888
+k79_5 len 8281  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  nNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNnnnnn
+  H99: contig 0-8281 -> 979,921-988,127 (-) id 0.978
+  WM276: contig 30-7260 -> 903,226-910,382 (-) id 0.847
+k79_3 len 7264  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  -nnnnnnnnnnnNNNNNNNNNNNNNnnnnnnnnnnn
+  H99: contig 120-7264 -> 997,200-1,004,296 (-) id 0.981
+  WM276: contig 2393-5025 -> 919,139-921,751 (-) id 0.849
+k79_4 len 6332  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+  H99: contig 0-6332 -> 988,196-994,497 (-) id 0.970
+k79_2 len 2678  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  nnNNNNNNNNNNN
+  H99: contig 0-2678 -> 994,520-997,074 (+) id 0.987
+  WM276: contig 291-2678 -> 914,636-916,995 (+) id 0.844
+
+### ERR1395127: 4 contigs
+k119_2 len 20646  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  -NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+  H99: contig 33-20637 -> 981,470-1,001,725 (+) id 0.997
+  WM276: contig 63-6705 -> 903,785-910,382 (+) id 0.854
+k119_1 len 19570  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnnnnnnnn
+  H99: contig 0-19570 -> 1,002,090-1,021,239 (+) id 0.976
+  WM276: contig 6593-14552 -> 943,430-951,311 (+) id 0.855
+k119_3 len 9151  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  nNNNNNNNNNNNNNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnn
+  H99: contig 0-9150 -> 1,021,239-1,029,998 (-) id 0.996
+  WM276: contig 1-5725 -> 959,555-965,258 (-) id 0.857
+k119_0 len 2010  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  -NNNNNNNNN
+  H99: contig 60-2010 -> 979,540-981,469 (-) id 0.992
+  WM276: contig 123-2009 -> 901,823-903,691 (-) id 0.822
+
+### ERR1395135: 1 contigs
+k39_0 len 50726  track (1 char = 200 bp; N/G = closer to H99/WM276, n/g = only that one aligns):
+  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+  H99: contig 0-50726 -> 979,667-1,030,197 (+) id 0.997
+  WM276: contig 29195-36584 -> 943,997-951,311 (+) id 0.860
