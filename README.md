@@ -9,7 +9,7 @@ unexplained sequence and low coverage.
 
 Paper: *cladeprint: species and lineage markers from public population genomes of the Cryptococcus species
 complex* (S. Chanarat; under review).
-Archived release, marker bundles and per-run results: https://doi.org/10.5281/zenodo.23985538 (all versions).
+Archived release, marker bundles and per-run results: https://doi.org/10.5281/zenodo.24346380 (all versions).
 
 ## Build
 
